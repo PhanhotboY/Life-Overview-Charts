@@ -1,0 +1,24 @@
+{
+  "name": "life-overview-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon -L --inspect=0.0.0.0:9229 --ignore 'public/*' ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.12",
+    "chart.js": "^4.4.0",
+    "express": "^4.18.2",
+    "express-async-error": "^0.0.2",
+    "express-async-errors": "^3.1.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}

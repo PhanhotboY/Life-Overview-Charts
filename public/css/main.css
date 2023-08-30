@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+#header {
+  text-align: center;
+  color: red;
+}
+
+.main {
+  width: 100vw;
+  padding: 1rem;
+  margin-top: auto;
+  box-sizing: border-box;
+}
+
+.body {
+  display: flex;
+  padding-top: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.graph_container {
+  width: 70%;
+}
+
+.github {
+  display: flex;
+  height: 300px;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.filter {
+  display: flex;
+  padding-inline: 1.5rem;
+  justify-content: space-between;
+}
+
+.forward {
+  display: flex;
+  align-items: center;
+}
+
+.forward > span {
+  width: 80px;
+  text-align: center;
+  margin-inline: 0.25rem;
+}
+
+.forward > div {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+.forward > div:hover {
+  background-color: rgba(3, 3, 3, 0.1);
+}

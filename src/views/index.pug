@@ -1,0 +1,18 @@
+extends layouts/index.pug
+
+block content
+    div(class='main')
+        include home/header.pug 
+        <div class='body'>
+            div(class='graph_container') 
+                include home/filter.pug
+                canvas(id='graph')
+            <div class='github'>
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=PhanhotboY&theme=dark&hide_border=true" width="350">
+                <img src="https://github-readme-stats.vercel.app/api?username=PhanhotboY&show_icons=true&theme=bear" width="350">
+
+    script(src="https://cdn.jsdelivr.net/npm/chart.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/1.30.1/date_fns.js") 
+    script(src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js") 
+    script const results= "#{dbs}"
+    script(src='js/index.js' type='module') 
