@@ -8,7 +8,8 @@ const records = JSON.parse(results.replace(/&quot;/g, '"'));
 const recMap = new Map();
 
 records.forEach((rec) => {
-  recMap.set(new Date(rec.date).toLocaleDateString(), +rec.tags[0]?.name || 0);
+  const { date, tags, ...data } = rec;
+  recMap.set(new Date(date).toLocaleDateString(), { point: +tags[0]?.name || 0, data });
 });
 
 const graph = document.querySelector('#graph');

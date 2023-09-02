@@ -3,7 +3,7 @@ const makeupPointLabel = (context) => {
   const point = dataset.data[dataIndex].y - (dataset.data[dataIndex - 1]?.y || 0);
   // 01/01/2023: -2
   return `${new Date(raw.x).toLocaleDateString()}: ${(point > 0 ? '+' : '') + point}
-${dataset.data[dataIndex].summary}`;
+${dataset.data[dataIndex].data?.summary || ''}`;
 };
 
 export function createChart(element, { data, options }) {

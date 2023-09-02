@@ -30,9 +30,11 @@ body {
 
 .github {
   display: flex;
-  height: 300px;
   justify-content: space-between;
   flex-direction: column;
+}
+.github > *:not(.github > *:last-child) {
+  margin-bottom: 1rem;
 }
 
 .filter {

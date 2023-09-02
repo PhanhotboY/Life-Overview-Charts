@@ -4,9 +4,10 @@ import { getFullYearDates, getFullMonthDates, getFullWeekDates } from './date.se
 const buildData = (dates, recMap) =>
   dates.reduce((arr, date, i) => {
     const currDate = new Date(date);
-    const val = (recMap.get(currDate.toLocaleDateString()) || 0) + (arr[i - 1]?.y || 0);
+    const { point = 0, data = {} } = recMap.get(currDate.toLocaleDateString()) || {};
+    const val = point + (arr[i - 1]?.y || 0);
 
-    arr.push({ x: currDate.getTime(), y: val });
+    arr.push({ x: currDate.getTime(), y: val, data });
 
     return arr;
   }, []);

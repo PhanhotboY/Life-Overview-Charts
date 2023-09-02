@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "start": "nodemon -L --inspect=0.0.0.0:9229 --ignore 'public/*' ./src/app.js"
+    "start": "node ./src/app.js",
+    "dev": "nodemon -L --inspect=0.0.0.0:9229 --ignore 'public/*' ./src/app.js"
   },
   "keywords": [],
   "author": "",
