@@ -59,6 +59,7 @@ export const loader = async () => {
 };
 
 export default function Index() {
+  let chart;
   const { items } = useLoaderData();
 
   const [currSelection, setCurrSelection] = useState({
@@ -102,7 +103,9 @@ export default function Index() {
       },
     };
 
+    if (chart) chart.destroy();
     const newSelection = initChart(graph, chartStrategy, currSelection);
+    chart = newSelection.chart;
     setCurrSelection(newSelection);
     setChartStrategy(chartStrategy);
 
