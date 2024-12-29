@@ -1,6 +1,8 @@
 {
   "name": "life-overview-charts",
   "version": "1.0.0",
+  "private": true,
+  "sideEffects": false,
   "description": "",
   "scripts": {
     "build": "remix vite:build",
