@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "sideEffects": false,
+  "type": "module",
   "description": "",
   "scripts": {
     "build": "remix vite:build",
