@@ -1,4 +1,4 @@
-const { Client } = require('@notionhq/client');
+import { Client } from '@notionhq/client';
 
 class Notion extends Client {
   client;
@@ -15,4 +15,4 @@ class Notion extends Client {
   }
 }
 
-module.exports.client = Notion.getClient();
+export const client = Notion.getClient();

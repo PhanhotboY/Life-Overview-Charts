@@ -1,20 +1,30 @@
-import { MONTHS, TODAY, WEEKDAY } from '../constants.js';
-import { getFullYearDates, getFullMonthDates, getFullWeekDates } from './date.service.js';
+import { MONTHS, TODAY, WEEKDAY } from '../constants/date.constant.js';
+import {
+  getFullYearDates,
+  getFullMonthDates,
+  getFullWeekDates,
+} from './date.service.js';
 
-const buildData = (dates, recMap) =>
-  dates.reduce((arr, date, i) => {
+const buildData = (dates, recMap) => {
+  let totalPoint = 0;
+  const data = dates.reduce((arr, date, i) => {
     const currDate = new Date(date);
-    const { point = 0, data = {} } = recMap.get(currDate.toLocaleDateString()) || {};
+    const { point = -0.5, data = {} } =
+      recMap.get(currDate.toLocaleDateString()) || {};
     const val = point + (arr[i - 1]?.y || 0);
 
-    arr.push({ x: currDate.getTime(), y: val, data });
+    totalPoint += point;
+    arr.push({ x: currDate.getTime(), y: val, data, totalPoint });
 
     return arr;
   }, []);
 
+  return { data, totalPoint };
+};
+
 export function createYearData(year = TODAY.getFullYear(), recMap) {
   const fullYearDates = getFullYearDates(year);
-  const data = buildData(fullYearDates, recMap);
+  const { data, totalPoint } = buildData(fullYearDates, recMap);
 
   const datasets = {
     datasets: [
@@ -23,6 +33,7 @@ export function createYearData(year = TODAY.getFullYear(), recMap) {
         data,
       },
     ],
+    totalPoint,
   };
   const options = {
     scales: {
@@ -33,7 +44,9 @@ export function createYearData(year = TODAY.getFullYear(), recMap) {
         ticks: {
           callback(value, index) {
             const currDate = new Date(value);
-            return currDate.getDate() === 1 ? MONTHS[currDate.getMonth()] : null;
+            return currDate.getDate() === 1
+              ? MONTHS[currDate.getMonth()]
+              : null;
           },
         },
       },
@@ -43,9 +56,13 @@ export function createYearData(year = TODAY.getFullYear(), recMap) {
   return { data: datasets, options };
 }
 
-export function createMonthData(month = TODAY.getMonth(), year = TODAY.getFullYear(), recMap) {
+export function createMonthData(
+  month = TODAY.getMonth(),
+  year = TODAY.getFullYear(),
+  recMap
+) {
   const fullMonthDates = getFullMonthDates(month, year);
-  const data = buildData(fullMonthDates, recMap);
+  const { data, totalPoint } = buildData(fullMonthDates, recMap);
 
   const datasets = {
     datasets: [
@@ -54,6 +71,7 @@ export function createMonthData(month = TODAY.getMonth(), year = TODAY.getFullYe
         data,
       },
     ],
+    totalPoint,
   };
   const options = {
     scales: {
@@ -81,17 +99,20 @@ export function createWeekData(
   recMap
 ) {
   const fullWeekDates = getFullWeekDates(day, month, year);
-  const data = buildData(fullWeekDates, recMap);
+  const { data, totalPoint } = buildData(fullWeekDates, recMap);
 
   const datasets = {
     datasets: [
       {
         label: `Week ${new Date(fullWeekDates[0]).getDate()}-${new Date(
           fullWeekDates[fullWeekDates.length - 1]
-        ).getDate()}/${new Date(fullWeekDates[fullWeekDates.length - 1]).getMonth() + 1}`,
+        ).getDate()}/${
+          new Date(fullWeekDates[fullWeekDates.length - 1]).getMonth() + 1
+        }`,
         data,
       },
     ],
+    totalPoint,
   };
   const options = {
     scales: {
