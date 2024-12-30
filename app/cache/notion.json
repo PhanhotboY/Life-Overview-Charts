@@ -1,1 +1,6523 @@
-[]
+[
+  {
+    "id": "158a1482-dd23-80cd-b4a1-cc1e0cc95419",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-12-10",
+    "icon": "😡"
+  },
+  {
+    "id": "158a1482-dd23-8035-bd68-e0f968a98f4a",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-12-09",
+    "icon": "😡"
+  },
+  {
+    "id": "158a1482-dd23-8037-af55-cff633ca79db",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-12-08",
+    "icon": "😡"
+  },
+  {
+    "id": "155a1482-dd23-804d-9de8-db5183e3987c",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-12-07",
+    "summary": "Complete kiddihub, take a rest",
+    "icon": "✅"
+  },
+  {
+    "id": "154a1482-dd23-80c9-9b7f-d8dd882e8adf",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-12-06",
+    "summary": "hang out with coworkers",
+    "icon": "🤡"
+  },
+  {
+    "id": "153a1482-dd23-8042-b5aa-cd731f624176",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-12-05",
+    "icon": "🤡"
+  },
+  {
+    "id": "152a1482-dd23-8018-965d-e0730a01cdc8",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-12-04",
+    "summary": "Go to school and coding Kiddihub",
+    "icon": "✅"
+  },
+  {
+    "id": "151a1482-dd23-8090-97a8-c1f3e3fee586",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-12-03",
+    "icon": "✅"
+  },
+  {
+    "id": "150a1482-dd23-801e-92ff-caf794dab25d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-12-02",
+    "summary": "Not working due to rain, prepare for a new week",
+    "icon": "✅"
+  },
+  {
+    "id": "14fa1482-dd23-8000-8297-f8e2644a6a9f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-12-01",
+    "summary": "850 TOEIC RL, good job",
+    "icon": "✅"
+  },
+  {
+    "id": "14da1482-dd23-808d-b9ed-c6de82968606",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-29",
+    "summary": "Testing new strategy of getting things done, writing report in the morning",
+    "icon": "✅"
+  },
+  {
+    "id": "14ca1482-dd23-80b0-856c-db0d89fbada4",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-11-28",
+    "summary": "An empty night, again, watching anime and videos",
+    "icon": "😡"
+  },
+  {
+    "id": "14ba1482-dd23-80e0-95ed-fafd40dd4ff1",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-27",
+    "summary": "booking 2 models, ",
+    "icon": "✅"
+  },
+  {
+    "id": "14aa1482-dd23-80a4-b8ab-d044aba28420",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-26",
+    "icon": "🤡"
+  },
+  {
+    "id": "149a1482-dd23-80cf-be28-c09940f9c31b",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-11-25",
+    "icon": "🤩"
+  },
+  {
+    "id": "148a1482-dd23-80d3-bf25-fedec21eaa7c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-24",
+    "summary": "Pray for TOEIC SW 200",
+    "icon": "🤡"
+  },
+  {
+    "id": "144a1482-dd23-805b-b8be-fc67b141d97b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-20",
+    "icon": "🤡"
+  },
+  {
+    "id": "141a1482-dd23-80a8-bba8-df086c54aab5",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-17",
+    "icon": "🤡"
+  },
+  {
+    "id": "141a1482-dd23-80e0-8b02-fca0bd9be935",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-16",
+    "icon": "✅"
+  },
+  {
+    "id": "13fa1482-dd23-80ce-9002-c120d33f494e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-15",
+    "icon": "✅"
+  },
+  {
+    "id": "13ea1482-dd23-80b6-bc99-ff4dde42b898",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-14",
+    "icon": "✅"
+  },
+  {
+    "id": "13da1482-dd23-8063-ae09-da2095f51353",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-13",
+    "icon": "🤡"
+  },
+  {
+    "id": "13ba1482-dd23-8048-8ece-e11ad91d7c5f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-11",
+    "icon": "✅"
+  },
+  {
+    "id": "13aa1482-dd23-80ac-aab5-fe7e1a36db0a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-10",
+    "icon": "🤡"
+  },
+  {
+    "id": "139a1482-dd23-80b6-aee9-eefdbf25b225",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-09",
+    "icon": "🤡"
+  },
+  {
+    "id": "138a1482-dd23-8060-8336-c10ec325ec4b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-11-08",
+    "icon": "🤡"
+  },
+  {
+    "id": "137a1482-dd23-8059-bfa3-dd87b06ada7e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-11-07",
+    "icon": "✅"
+  },
+  {
+    "id": "134a1482-dd23-801a-a789-d8e4143a58b7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-11-04",
+    "icon": "😡"
+  },
+  {
+    "id": "131a1482-dd23-80a9-9623-f14bf1fbc23e",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-11-01",
+    "icon": "😡"
+  },
+  {
+    "id": "130a1482-dd23-8056-8b12-c237b012a594",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-31",
+    "icon": "✅"
+  },
+  {
+    "id": "12fa1482-dd23-80a8-948f-c9c238e199cb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-30",
+    "summary": "880 TOEIC mock test",
+    "icon": "🤡"
+  },
+  {
+    "id": "12fa1482-dd23-80f0-94f1-df3d2ff1b2f2",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-29",
+    "icon": "🤡"
+  },
+  {
+    "id": "12ca1482-dd23-809c-a71b-eebd9acfba78",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-27",
+    "icon": "🤡"
+  },
+  {
+    "id": "129a1482-dd23-8006-ac97-d0688c1b2d7d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-24",
+    "summary": "Work hard, take a rest",
+    "icon": "✅"
+  },
+  {
+    "id": "128a1482-dd23-80ac-8679-df5984fda457",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-23",
+    "icon": "✅"
+  },
+  {
+    "id": "127a1482-dd23-80eb-8d8b-ffba1ac4fe0d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-22",
+    "icon": "✅"
+  },
+  {
+    "id": "126a1482-dd23-8035-be91-f8d86e8260b7",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-21",
+    "icon": "✅"
+  },
+  {
+    "id": "121a1482-dd23-807f-a0ea-d72d0ada568a",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-16",
+    "icon": "✅"
+  },
+  {
+    "id": "120a1482-dd23-800a-8fc5-df423f6a1153",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-10-15",
+    "summary": "Talk with boss",
+    "icon": "🤩"
+  },
+  {
+    "id": "120a1482-dd23-8065-b198-f8b44c4bca52",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-14",
+    "summary": "day off for deadline",
+    "icon": "🤡"
+  },
+  {
+    "id": "11fa1482-dd23-80b6-a6db-cb09b800703b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-13",
+    "icon": "✅"
+  },
+  {
+    "id": "11ea1482-dd23-80ba-8897-f8fd2939b4cc",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-12",
+    "icon": "🤡"
+  },
+  {
+    "id": "11ca1482-dd23-80dc-8df7-fc67f0e9309a",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-10-11",
+    "icon": "😡"
+  },
+  {
+    "id": "11aa1482-dd23-80c1-a003-ce35869fe772",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-09",
+    "summary": "Go out with coworkers",
+    "icon": "🤡"
+  },
+  {
+    "id": "118a1482-dd23-802f-a868-ee2f8684e82d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-07",
+    "icon": "✅"
+  },
+  {
+    "id": "118a1482-dd23-8000-afd3-fd7f7b21d1d4",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-10-06",
+    "icon": "🤬"
+  },
+  {
+    "id": "117a1482-dd23-8009-b0eb-d044fa39bd92",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-05",
+    "icon": "✅"
+  },
+  {
+    "id": "115a1482-dd23-80d9-98d3-eee6f8be6e0a",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-10-03",
+    "icon": "🤩"
+  },
+  {
+    "id": "113a1482-dd23-808f-9990-c4336a43a5c0",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-10-02",
+    "icon": "✅"
+  },
+  {
+    "id": "113a1482-dd23-8057-8255-ec3001cbf86f",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-10-01",
+    "icon": "🤡"
+  },
+  {
+    "id": "111a1482-dd23-80cf-ab0a-db9be0833e86",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-09-30",
+    "summary": "New task, 2 landing pages @@",
+    "icon": "🤡"
+  },
+  {
+    "id": "111a1482-dd23-8059-81f6-e1f62980a0d9",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-09-29",
+    "icon": "🤡"
+  },
+  {
+    "id": "110a1482-dd23-806e-90fb-e65097e5cd1d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-28",
+    "icon": "✅"
+  },
+  {
+    "id": "10ea1482-dd23-80c0-9500-e2a164919e4b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-27",
+    "summary": "Working hard",
+    "icon": "✅"
+  },
+  {
+    "id": "10da1482-dd23-80c0-ae50-d9c407d3c048",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-26",
+    "summary": "The first intern day, have the first task",
+    "icon": "✅"
+  },
+  {
+    "id": "10ba1482-dd23-80c6-bf1d-f77b5da9cd15",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-24",
+    "icon": "✅"
+  },
+  {
+    "id": "10aa1482-dd23-802e-acab-d3a270de77be",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-23",
+    "icon": "✅"
+  },
+  {
+    "id": "10aa1482-dd23-8090-b5f6-ddf26953c827",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-09-22",
+    "icon": "🤡"
+  },
+  {
+    "id": "108a1482-dd23-80ad-800a-cfe60671b8b4",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-21",
+    "icon": "✅"
+  },
+  {
+    "id": "107a1482-dd23-80fa-8294-f51ce018f93e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-20",
+    "summary": "Done automating set claim process",
+    "icon": "✅"
+  },
+  {
+    "id": "106a1482-dd23-80a0-b94b-e6c5c549ee5a",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-09-19",
+    "icon": "😡"
+  },
+  {
+    "id": "106a1482-dd23-8010-80ef-f28e29b87cfe",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-18",
+    "icon": "✅"
+  },
+  {
+    "id": "104a1482-dd23-80f7-b29a-ffe612904dda",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-17",
+    "icon": "✅"
+  },
+  {
+    "id": "101a1482-dd23-8097-87eb-c06df87008b4",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-14",
+    "summary": "Complete the report, file a CV, relax",
+    "icon": "✅"
+  },
+  {
+    "id": "100a1482-dd23-8040-ae34-ff311d1251c9",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-09-13",
+    "summary": "Nothing but reading",
+    "icon": "🤬"
+  },
+  {
+    "id": "e8295d3f-aaad-4b3e-bb24-77a30dd788e8",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-09-12",
+    "summary": "Working a bit on the Report, read quite much",
+    "icon": "🤡"
+  },
+  {
+    "id": "fcf77136-ef82-4129-8b57-c948b1a80c46",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-09-11",
+    "summary": "Join team in the classes, learn PM, walking with sisters",
+    "icon": "🤩"
+  },
+  {
+    "id": "3c6f4f50-38a7-4da0-81ee-4fc5a9fb4852",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-10",
+    "summary": "Continue file CV, learn PM, do some exercise",
+    "icon": "✅"
+  },
+  {
+    "id": "608088c9-146d-444a-81ca-eebbce5da4c5",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-09-09",
+    "summary": "Not doing anything",
+    "icon": "😡"
+  },
+  {
+    "id": "945f1b6c-0e1d-4770-8ab5-dcf38d2f68e6",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-09-08",
+    "summary": "Have fun with friends and read some blogs",
+    "icon": "🤡"
+  },
+  {
+    "id": "df1d2fe6-23eb-4a83-a387-52f35606c2ba",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-06",
+    "summary": "Hair cutting, file some CVs, complete 1 Google PM module",
+    "icon": "✅"
+  },
+  {
+    "id": "a11f4102-4db3-46c4-b37f-2b2eb9a2e531",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-09-05",
+    "summary": "Overslept again, filed some CV, started Google Project Management course",
+    "icon": "✅"
+  },
+  {
+    "id": "230fd55f-85cc-4417-9feb-da7a9d4c9488",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-29",
+    "summary": "Adjust CV, anime",
+    "icon": "😡"
+  },
+  {
+    "id": "9a69eb02-391c-47aa-b2b1-e5a0131f0af7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-28",
+    "summary": "Sleep, update CV, find job",
+    "icon": "😡"
+  },
+  {
+    "id": "96094503-c434-46bb-8c09-f6c0da378543",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-08-27",
+    "summary": "Do nothing at all",
+    "icon": "🤬"
+  },
+  {
+    "id": "eb4ac068-d2a0-4a4d-9d6c-a58670da7f2a",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-26",
+    "icon": "😡"
+  },
+  {
+    "id": "d3f2c910-b13d-44bd-8445-732e15a95997",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-25",
+    "icon": "😡"
+  },
+  {
+    "id": "40c9fe26-3759-4558-a38d-b00fe3eb312a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-08-24",
+    "summary": "Overslept, coding, gaming",
+    "icon": "🤡"
+  },
+  {
+    "id": "5b12a28e-98e5-48ed-9319-b44d3049d04a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-08-21",
+    "icon": "🤡"
+  },
+  {
+    "id": "ba370641-bcc3-414a-8ed5-3b0b9f794754",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-08-20",
+    "summary": "Start finding my lost self",
+    "icon": "✅"
+  },
+  {
+    "id": "75cccc0d-5c7d-49bd-b1a2-b57d305951a2",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-16",
+    "summary": "Done setting up Pop!_OS",
+    "icon": "😡"
+  },
+  {
+    "id": "0b265c87-58a8-4326-8ebc-0d74ea994c53",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-08-13",
+    "summary": "Register courses, empty day",
+    "icon": "😡"
+  },
+  {
+    "id": "7f85562b-b803-4eee-a4b0-24f891d34657",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-07-12",
+    "summary": "CI/CD with Github action",
+    "icon": "✅"
+  },
+  {
+    "id": "f9b8534f-ba60-4974-acb9-d3ccfdc40596",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-07-09",
+    "summary": "Back to home",
+    "icon": "🤡"
+  },
+  {
+    "id": "91aac922-eafd-4b23-b0ab-090e418c6218",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-07-06",
+    "icon": "✅"
+  },
+  {
+    "id": "b57da26b-3cdf-4bf2-ac84-50d02067b3a5",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-22",
+    "summary": "Completed one more deadline, reading, gaming, cooking",
+    "icon": "✅"
+  },
+  {
+    "id": "399951cf-7262-4fe6-b28a-7ce5081054cd",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-21",
+    "icon": "🤡"
+  },
+  {
+    "id": "3836beeb-9b77-46d9-9596-a49aa4dec6d3",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-20",
+    "summary": "Boring day, wake up late, not productive, watch Euro",
+    "icon": "🤡"
+  },
+  {
+    "id": "048e068d-4c68-4a08-98d3-58a39469c703",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-19",
+    "summary": "Retrain models, watching Euro, reading, learning a bit about media uploading",
+    "icon": "🤡"
+  },
+  {
+    "id": "81904ed8-2308-44be-8abc-6d7f0962e90d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-18",
+    "summary": "Examination, tinkering with Laravel",
+    "icon": "✅"
+  },
+  {
+    "id": "7d50d802-8112-4e7a-a87f-454ef13ceaff",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-17",
+    "icon": "🤡"
+  },
+  {
+    "id": "eed00c19-f81d-4962-9d9f-b2d367310e6b",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-06-16",
+    "icon": "🤬"
+  },
+  {
+    "id": "43063182-6081-4a83-97b4-98f41f2a0579",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-06-15",
+    "summary": "Game & deadline, week review",
+    "icon": "😡"
+  },
+  {
+    "id": "5cd114c4-d9b5-4904-a3f3-84f727e5ecc4",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-06-14",
+    "summary": "game & deadline",
+    "icon": "😡"
+  },
+  {
+    "id": "4b18a4f1-7881-441b-8486-11cf7dbe531f",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-06-13",
+    "summary": "game",
+    "icon": "🤬"
+  },
+  {
+    "id": "5ff43667-ec55-4b10-8b16-e0547ad4fb9d",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-12",
+    "summary": "Overslept, again, learning back end all day",
+    "icon": "🤡"
+  },
+  {
+    "id": "f70bfe91-b061-4e28-a32a-7a4afc6ee6ea",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-11",
+    "summary": "Learning message queue",
+    "icon": "🤡"
+  },
+  {
+    "id": "d1d93785-3bdb-4f93-8052-9697242f6d2d",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-10",
+    "icon": "🤡"
+  },
+  {
+    "id": "41253bbf-eb25-492b-a476-39b80e4f0c1e",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-06-09",
+    "icon": "🤬"
+  },
+  {
+    "id": "dcab4bfc-1eda-4ee7-bd89-44e82cbe10fd",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-08",
+    "summary": "Complete the presentation",
+    "icon": "✅"
+  },
+  {
+    "id": "966464f7-2862-469e-b6c3-31533afcb3a1",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-07",
+    "icon": "✅"
+  },
+  {
+    "id": "d136a763-eb60-4d09-9aba-bd1dc83c9418",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-06",
+    "summary": "Dealing with deadline",
+    "icon": "✅"
+  },
+  {
+    "id": "96722900-8375-4f40-b21d-797c8c57654e",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-06-05",
+    "summary": "Very low productive, really tired",
+    "icon": "😡"
+  },
+  {
+    "id": "a105212c-fcea-4568-9819-b0ca8aa793fe",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-06-04",
+    "icon": "🤬"
+  },
+  {
+    "id": "7e9bb76b-cff6-441f-8ff4-1529d542f0ed",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-06-03",
+    "summary": "Too much social media, working at night",
+    "icon": "🤡"
+  },
+  {
+    "id": "50ecc61c-1599-4fec-97f2-a4b418104a9f",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-06-02",
+    "summary": "Game and tire",
+    "icon": "😡"
+  },
+  {
+    "id": "3b3b8b45-0e0b-417e-97b0-2148e3aa37d0",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-06-01",
+    "summary": "Writing report, groping Linux, again",
+    "icon": "✅"
+  },
+  {
+    "id": "41af9b17-434b-4109-bd4a-6b91fbe0948f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-31",
+    "summary": "Groping Debian 12, learning back end",
+    "icon": "✅"
+  },
+  {
+    "id": "8e744b6f-5408-4979-b32e-ece1dda922af",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-30",
+    "summary": "Groping Debian 12",
+    "icon": "✅"
+  },
+  {
+    "id": "95d6e3fc-9747-4a6c-9cbf-c3c6ce07f708",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-29",
+    "summary": "Groping Debian 12",
+    "icon": "✅"
+  },
+  {
+    "id": "4a69200a-41d2-4a68-b124-4de28560a642",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-28",
+    "summary": "Config new OS, met Hoang Yen Chibi, presentation",
+    "icon": "✅"
+  },
+  {
+    "id": "0d90229e-74fd-4dd9-bef4-afed3881ed2d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-27",
+    "summary": "Switching from Windows 11 to Debian 12",
+    "icon": "✅"
+  },
+  {
+    "id": "912716f8-48a5-4f45-a095-c47085ea6e9b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-26",
+    "summary": "Half of the report, quite sleepy",
+    "icon": "✅"
+  },
+  {
+    "id": "d5f432f9-ae0e-41df-867f-3a00d4713237",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-25",
+    "summary": "Complete the trading project, have time for reviewing and planning",
+    "icon": "✅"
+  },
+  {
+    "id": "e60d41eb-aca4-41fa-9bf4-c9d238b42f41",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-24",
+    "summary": "Recover after the sick days",
+    "icon": "✅"
+  },
+  {
+    "id": "ab5e2426-39c3-4e7c-866a-3e150a44bbb9",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-05-22",
+    "icon": "🤬"
+  },
+  {
+    "id": "d87f7e8f-27a1-4a34-97c9-1d8e9ae451c5",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-05-21",
+    "icon": "😡"
+  },
+  {
+    "id": "da2cd050-82c2-43e4-a404-5be5822cf6c2",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-05-20",
+    "summary": "Train the ensemble model, gaming, still fucking hurt",
+    "icon": "😡"
+  },
+  {
+    "id": "535c5ac6-a426-40af-b7b9-3047290e3705",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-05-19",
+    "summary": "It’s so fucking hurt, can’t do anything",
+    "icon": "🤬"
+  },
+  {
+    "id": "ac29c1be-8af2-404e-af1d-f9253b1379ba",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-18",
+    "summary": "Wake up late, not productive, no exercise",
+    "icon": "🤡"
+  },
+  {
+    "id": "e90b39f5-1b1b-4721-9b9b-15cc8bc383c0",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-17",
+    "summary": "Working all the day, but the night, hard exercise",
+    "icon": "✅"
+  },
+  {
+    "id": "5e59824d-b248-4086-b768-22e61746dc15",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-16",
+    "summary": "Studying, working, cleaning motel",
+    "icon": "✅"
+  },
+  {
+    "id": "f125eca4-c0a6-42dc-b706-3d9d3568e078",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-15",
+    "summary": "Refactor the cnpm project, anime",
+    "icon": "🤡"
+  },
+  {
+    "id": "e64e7dae-1b52-4a6b-9704-db12993645df",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-14",
+    "summary": "Trained 5 models, daily Threads quoting",
+    "icon": "✅"
+  },
+  {
+    "id": "1a70a13b-d017-42b4-8601-3fbd6c849ac2",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-13",
+    "summary": "Overslept, anime addicted, able to train the models",
+    "icon": "🤡"
+  },
+  {
+    "id": "69d85165-dac0-478c-87a7-eef6aada941f",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-12",
+    "summary": "Supa procrastinating, nothing done on the report",
+    "icon": "🤡"
+  },
+  {
+    "id": "15a3c891-a56c-4540-aeb2-e2d3586b7ed3",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-11",
+    "summary": "Working on AI, walking, productive",
+    "icon": "✅"
+  },
+  {
+    "id": "160a217c-7775-4b5f-8f8a-895aec71dbce",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-10",
+    "icon": "✅"
+  },
+  {
+    "id": "f94264fa-0306-453c-bb49-aac11f32b571",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-09",
+    "summary": "Gradually back to inside, feeling better, be more present",
+    "icon": "✅"
+  },
+  {
+    "id": "68b04d25-c863-4df9-8ca0-701f273edc74",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-08",
+    "summary": "Overslept, reading, not working at all",
+    "icon": "🤡"
+  },
+  {
+    "id": "007bd7f0-982e-4f6b-a061-a20b7da5a95d",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-05-07",
+    "icon": "😡"
+  },
+  {
+    "id": "8340f8f5-ff27-41f3-9cc4-67328b9e19f7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-05-04",
+    "summary": "Not working at all, still. Woke up late, wasted the morning and afternoon. Exercise",
+    "icon": "😡"
+  },
+  {
+    "id": "6e8d3640-e3bd-492b-89e2-b8583109b406",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-05-03",
+    "summary": "Happy birthday to me",
+    "icon": "🤡"
+  },
+  {
+    "id": "290b4e8b-86a6-4703-89d0-144a4ef0018a",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-05-02",
+    "summary": "Working hard, new book “Meditations”",
+    "icon": "✅"
+  },
+  {
+    "id": "bd2bd240-cc50-461a-80c7-e09d0f25d12b",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-05-01",
+    "summary": "Game",
+    "icon": "😡"
+  },
+  {
+    "id": "d51284c5-a572-4586-ad82-862fa8a216d4",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-04-30",
+    "icon": "✅"
+  },
+  {
+    "id": "cfd0fd53-56be-44e7-b22b-c7b5a0635839",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-04-29",
+    "summary": "Working quite much but the result like a shit, not productive",
+    "icon": "✅"
+  },
+  {
+    "id": "3615e44e-eabf-4fd8-a86b-a38972ad430e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-28",
+    "summary": "Too hot to be productive",
+    "icon": "🤡"
+  },
+  {
+    "id": "a53dfb28-b3ee-4712-b6e1-186d2fd83af9",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-27",
+    "summary": "Gaming all the afternoon, submit the deadline",
+    "icon": "😡"
+  },
+  {
+    "id": "612ebd7a-8a9f-437e-a1f7-9b358620cb57",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-26",
+    "icon": "🤡"
+  },
+  {
+    "id": "a9234a86-2930-48c5-a251-ebf7a7b121d1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-25",
+    "summary": " Prepare slide, game",
+    "icon": "🤡"
+  },
+  {
+    "id": "c15d6ec7-f5c2-47c2-9a66-d391a0dd8c6a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-24",
+    "summary": "1 deadline, nah",
+    "icon": "🤡"
+  },
+  {
+    "id": "795de4da-b262-4c29-87a3-9e67737a5b6d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-04-23",
+    "summary": "Deleted the game, working hard",
+    "icon": "✅"
+  },
+  {
+    "id": "39ed7a68-9fba-4eab-84ae-a7e3b3b6fbd5",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-22",
+    "icon": "🤡"
+  },
+  {
+    "id": "74bc22a2-47e8-4f19-9520-e488044877d7",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-21",
+    "icon": "🤡"
+  },
+  {
+    "id": "3da2294c-ca87-43c2-ade0-10c4b63c0195",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-04-20",
+    "icon": "✅"
+  },
+  {
+    "id": "623eb559-26e9-4645-becc-d32850e9d0cd",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-19",
+    "summary": "Done the mid test, have fun with friends, chat with her",
+    "icon": "🤡"
+  },
+  {
+    "id": "2e27806c-dc21-4825-9911-aff4ec1e7efd",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-18",
+    "summary": "Boring",
+    "icon": "🤡"
+  },
+  {
+    "id": "a3933259-d25b-48ca-8d2e-c1d1e9018514",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-17",
+    "summary": "Sleep a bit much, reading out loud, exercise, working",
+    "icon": "🤡"
+  },
+  {
+    "id": "30903528-a4d1-4b66-908a-7ef4e3bdbe12",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-04-16",
+    "summary": "Process stock data, deadline, ds&a",
+    "icon": "✅"
+  },
+  {
+    "id": "874dbe0d-cd2d-44f1-916a-6e1e9b963e3e",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-15",
+    "summary": "Sleep all of time, reading and work a bit",
+    "icon": "😡"
+  },
+  {
+    "id": "9d3b7e17-4c09-40e4-aa06-476fbb2a72d7",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-14",
+    "icon": "🤡"
+  },
+  {
+    "id": "14af80ff-fbd4-4439-b235-ef100f456680",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-13",
+    "summary": "Chilling, trained a model, gaming, and reading",
+    "icon": "🤡"
+  },
+  {
+    "id": "f086ef49-a108-4226-8e11-895434557559",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-12",
+    "summary": "Homework, reading, gaming",
+    "icon": "🤡"
+  },
+  {
+    "id": "6f448708-aa7e-4ade-b3a2-099ac27a1743",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-11",
+    "icon": "😡"
+  },
+  {
+    "id": "b98c5a88-da40-41e1-95bc-d639f5baf364",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-10",
+    "icon": "🤡"
+  },
+  {
+    "id": "d8999764-646d-4e87-9f86-67c7a2821f6f",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-09",
+    "summary": "Studying, working and gaming with friends",
+    "icon": "🤡"
+  },
+  {
+    "id": "1ea7dd4f-e11b-4f2e-8ddf-ec6830594dac",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-08",
+    "summary": "Still gaming, sleeping, walking, and nothing",
+    "icon": "😡"
+  },
+  {
+    "id": "89356b0b-8660-4bf7-a5ca-ffb8988e4a22",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-07",
+    "icon": "😡"
+  },
+  {
+    "id": "450f29f2-48d6-4615-a685-349e94c54440",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-06",
+    "icon": "😡"
+  },
+  {
+    "id": "e08d70f3-bc7d-4b0e-9c97-8099da5cc6d5",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-05",
+    "icon": "😡"
+  },
+  {
+    "id": "f58ef083-30b6-4bf1-8641-27e29a4bcce0",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-04",
+    "icon": "😡"
+  },
+  {
+    "id": "563b7c1b-75c1-4456-9730-d90f762bf9d5",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-04-03",
+    "summary": "Back to work",
+    "icon": "🤡"
+  },
+  {
+    "id": "b7d5152a-9b83-42fa-9932-e15149096901",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-04-02",
+    "summary": "Sick",
+    "icon": "🤬"
+  },
+  {
+    "id": "5ef5237a-5d91-479a-abec-30e9da5b104b",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-04-01",
+    "icon": "😡"
+  },
+  {
+    "id": "706cd439-6c1f-44b9-b1cb-494d2c8e815c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-31",
+    "summary": "Not really productive, still now record the demo",
+    "icon": "🤡"
+  },
+  {
+    "id": "4fa9e74c-4eed-43ed-827b-8bd2c8563831",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-30",
+    "summary": "Oh my dear sister, poor you, done 1 AI exercise & asked for help the project",
+    "icon": "🤡"
+  },
+  {
+    "id": "0b68715f-3365-4acd-82fe-4fbb396bbb79",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-29",
+    "icon": "✅"
+  },
+  {
+    "id": "1153b25b-2129-46b5-b537-45f70e68b9e9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-28",
+    "icon": "✅"
+  },
+  {
+    "id": "92a83a6f-2286-4475-a222-fcd843535bbf",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-27",
+    "summary": "Super hot day and not productive, walking",
+    "icon": "🤡"
+  },
+  {
+    "id": "28d17f60-380e-4928-89bf-1d86d7237ab2",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-26",
+    "summary": "Done fixing bug locally, exercise, reading",
+    "icon": "✅"
+  },
+  {
+    "id": "239d4bde-6df2-49d5-8a11-69bad2a43c26",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-25",
+    "summary": "Hard exercise with resistance bands, deploy API to Azure VM",
+    "icon": "🤡"
+  },
+  {
+    "id": "5f3d453c-2fe5-40f0-8bdd-314379168489",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-24",
+    "summary": "Terrible, not working at all, just sleeping and doing fucking things",
+    "icon": "😡"
+  },
+  {
+    "id": "c719ef9d-a171-42cd-a899-7d881dbc5c66",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-23",
+    "summary": "Sleepy, no exercise, not productive, lazy",
+    "icon": "😡"
+  },
+  {
+    "id": "5a6af3e9-f4ff-4e84-b9b1-031a53775ad0",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-22",
+    "summary": "Game, again, deleted it, continuing on the project",
+    "icon": "🤡"
+  },
+  {
+    "id": "5d1b715e-2030-4e5a-a0fa-fdf04fde73c3",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-21",
+    "summary": "Exercise hard but works was not productive, playing game",
+    "icon": "🤡"
+  },
+  {
+    "id": "782fc9b9-41a2-485e-b95f-3ba8af8b3998",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-20",
+    "summary": "400 carlos, working hard, plan to improve English",
+    "icon": "✅"
+  },
+  {
+    "id": "2c2c68c4-d7a2-4559-b55a-816e543d84eb",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-03-19",
+    "summary": "Tremendously productive, walking goal, really tired",
+    "icon": "🤩"
+  },
+  {
+    "id": "2f09122d-b427-41c0-a970-a7af0af09883",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-18",
+    "summary": "Lately game and wake up late, too. Start to learn about AI project",
+    "icon": "😡"
+  },
+  {
+    "id": "2572cab6-8f76-48c7-919d-de2098e65cca",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-17",
+    "summary": "Teaching",
+    "icon": "🤡"
+  },
+  {
+    "id": "889bb56a-a98b-4dba-8dfe-e419dc37ba2c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-16",
+    "summary": "AI, teamwork and entertain",
+    "icon": "🤡"
+  },
+  {
+    "id": "31246b8b-2bf7-4808-92f5-c8ef09457608",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-15",
+    "summary": "Get in touch with her, Ai report",
+    "icon": "✅"
+  },
+  {
+    "id": "8ef14d61-d6ad-46c8-8643-6fdf43365277",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-14",
+    "summary": "Work hard, exercise hard, think hard",
+    "icon": "✅"
+  },
+  {
+    "id": "24851c71-a28d-4ee7-afe3-8993dad93284",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-13",
+    "summary": "Project, AI, new watch and walking",
+    "icon": "✅"
+  },
+  {
+    "id": "1b379abd-662b-4c8f-af08-f39fd0b7bf56",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-12",
+    "summary": "Go to school by bus, homework and coding",
+    "icon": "✅"
+  },
+  {
+    "id": "b0ba2cd2-d4d9-43f4-b099-98062b0487be",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-11",
+    "summary": "A really bad day, haircut, not productive, not feeling good",
+    "icon": "😡"
+  },
+  {
+    "id": "1b0b6e32-f1e9-4d81-b8be-c5d64f6b6104",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-10",
+    "summary": "Homework and interview examination",
+    "icon": "✅"
+  },
+  {
+    "id": "8bb8d4a2-6153-483d-a620-4b7a335856e5",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-09",
+    "summary": "Install Windows day, prepare for the test",
+    "icon": "🤡"
+  },
+  {
+    "id": "c45a9f1b-4706-474d-8ab7-1914ef46700e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-08",
+    "summary": "Chat with her, work hard, some trash time",
+    "icon": "✅"
+  },
+  {
+    "id": "91ffe42f-951f-41ca-870f-513ff195bbc2",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-07",
+    "summary": "New notebook with Colab, exercise and stay up late",
+    "icon": "✅"
+  },
+  {
+    "id": "3d0c1617-bf69-4209-84c8-2e7beb344a5a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-03-06",
+    "summary": "Work hard, play hard, done a university deadline, exercise",
+    "icon": "🤡"
+  },
+  {
+    "id": "9b94730a-080e-4751-a526-7d249b13fb40",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-05",
+    "summary": "Go to school, project, AI",
+    "icon": "✅"
+  },
+  {
+    "id": "09ecd0c3-5f91-4809-b9ed-a9fb3dc30f50",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-03-04",
+    "summary": "Done more but also discover more, exercise, read before sleep",
+    "icon": "✅"
+  },
+  {
+    "id": "71dfa885-bd64-4a45-944e-87d4de702ac4",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-03",
+    "summary": "Have fun with friends, fix the phone",
+    "icon": "😡"
+  },
+  {
+    "id": "a95c9076-db1c-4b92-8e1f-87012ae50d01",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-02",
+    "icon": "😡"
+  },
+  {
+    "id": "fd843026-5fa4-48f2-ba03-02c0e28c8da9",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-03-01",
+    "summary": "TFT, again",
+    "icon": "😡"
+  },
+  {
+    "id": "b6356dbc-f43c-4d5b-a7fb-1ca55581ef44",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-02-29",
+    "summary": "TFT",
+    "icon": "😡"
+  },
+  {
+    "id": "c6ee5a7a-bd70-48e1-b960-9bcde7d09c64",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-02-28",
+    "summary": "TFT",
+    "icon": "😡"
+  },
+  {
+    "id": "8c06a445-9f0c-4c21-a632-7c3ca0b1f59e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-27",
+    "summary": "self-surpass, go to school, exercise & code",
+    "icon": "✅"
+  },
+  {
+    "id": "3627dbf8-3990-4708-9ff1-f1657c9732e2",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-26",
+    "summary": "Quite much sleeping, working hard",
+    "icon": "✅"
+  },
+  {
+    "id": "12ea75f3-6c95-4078-8e0d-6ac9af7fc972",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-25",
+    "summary": "Trash morning, but get it back in the night",
+    "icon": "🤡"
+  },
+  {
+    "id": "d29e64af-59fd-47c8-aafa-b24103d2adbb",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-24",
+    "summary": "Not really productive, however, overall, nice",
+    "icon": "✅"
+  },
+  {
+    "id": "6feb8e5b-dfaa-4633-81b8-03be8f33e130",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      },
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-02-23",
+    "summary": "Exhausted day, use the best of free time",
+    "icon": "🤩"
+  },
+  {
+    "id": "80b0e093-7a6f-415a-899b-7c5c243eceaa",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-22",
+    "summary": "4 shuukan day, quite productive day",
+    "icon": "✅"
+  },
+  {
+    "id": "e79979c6-a768-46a8-bacc-67ccf11f18c7",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-21",
+    "summary": "New keycap, the last shopee order",
+    "icon": "🤡"
+  },
+  {
+    "id": "14cc3688-bcee-4e48-8e58-de79ecccd7cb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-20",
+    "summary": "First day back to school, starting a new journey",
+    "icon": "🤡"
+  },
+  {
+    "id": "03cbe230-adaa-4643-beb5-c493e23d5fe0",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-02-19",
+    "summary": "Do nothing but read and play",
+    "icon": "😡"
+  },
+  {
+    "id": "5aaa86f1-4538-4f98-965a-1517b466fa8d",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-18",
+    "summary": "Got the new book, Sapiens, have fun with family",
+    "icon": "🤡"
+  },
+  {
+    "id": "8090fa7b-6346-4ee7-9828-a9964f1ad890",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-17",
+    "summary": "Wake up late, quite tired, not productive",
+    "icon": "🤡"
+  },
+  {
+    "id": "fc18304e-a74e-4c13-b7ff-e7162cd8ff53",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-16",
+    "summary": "Better understanding CORS, have fun with family",
+    "icon": "🤡"
+  },
+  {
+    "id": "6dc93d62-c1fb-4bda-99e8-b16c412d57ba",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-15",
+    "summary": "Back to work but not productive",
+    "icon": "🤡"
+  },
+  {
+    "id": "d14e5bd2-4cd9-499d-b32b-973b5b2fe2d4",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-14",
+    "summary": "Prepare for the returning day",
+    "icon": "🤡"
+  },
+  {
+    "id": "6592fc4a-e84b-44f1-926c-d0294507bcfb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-13",
+    "summary": "The last long break day",
+    "icon": "🤡"
+  },
+  {
+    "id": "a2113af4-14f0-4a79-b925-f69fd9e9a266",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-12",
+    "summary": "Fuck around",
+    "icon": "🤡"
+  },
+  {
+    "id": "721c0e4e-f34f-45d8-9f43-0afeb18d0026",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-11",
+    "summary": "Set new year goals",
+    "icon": "🤡"
+  },
+  {
+    "id": "393d7b31-ad40-4f5e-9143-2966d7f38223",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-10",
+    "summary": "First day",
+    "icon": "🤡"
+  },
+  {
+    "id": "a362d000-afbb-41bd-92f8-fd30ae7ef9cc",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-09",
+    "summary": "Happy new year",
+    "icon": "🤡"
+  },
+  {
+    "id": "4d816cf2-f7a9-44db-bf3f-6efaae826f8e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-07",
+    "summary": "DTCL and friends",
+    "icon": "🤡"
+  },
+  {
+    "id": "af2bcf4b-f1c9-44c5-9ca0-7b669b27d593",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-06",
+    "summary": "Friends and gym",
+    "icon": "🤡"
+  },
+  {
+    "id": "0fef86a8-082e-49f6-b4c2-a695e093cff4",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-05",
+    "summary": "Have fun with friends, ",
+    "icon": "🤡"
+  },
+  {
+    "id": "145a4439-4d62-41c9-b6f3-3eb4cebe4bb3",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-04",
+    "summary": "Farewell to grandma",
+    "icon": "✅"
+  },
+  {
+    "id": "e8e967f7-4f45-4699-bad7-f725a4dbf7ce",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-02-03",
+    "summary": "Preparing for grandma’s funeral",
+    "icon": "✅"
+  },
+  {
+    "id": "f33b54ff-9ee3-42c1-9f92-3d707a8da346",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-02",
+    "summary": "My grandmother gone",
+    "icon": "🤡"
+  },
+  {
+    "id": "92b49317-a1fc-4733-8e78-707891d2889f",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-02-01",
+    "summary": "Set up new laptop",
+    "icon": "🤡"
+  },
+  {
+    "id": "3464bbea-1a28-4515-890b-d2192f9cc043",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-31",
+    "summary": "Continuing cleaning the house, reading, calisthenics",
+    "icon": "🤡"
+  },
+  {
+    "id": "532ddbe5-83c5-4868-ae85-42d9a11a9bd1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-30",
+    "summary": "Friends day, not productive, clean the house",
+    "icon": "🤡"
+  },
+  {
+    "id": "bb6ae0fd-92eb-4ac7-9176-e9b2ee7becf1",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-29",
+    "summary": "Have fun with friend, not productive",
+    "icon": "✅"
+  },
+  {
+    "id": "06d9c0f9-c781-4d31-833c-8cf5ae24168f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-28",
+    "summary": "Back to work with a chaotic mind, everybody is looking down on me",
+    "icon": "✅"
+  },
+  {
+    "id": "7f59a79e-4143-446c-9dd5-364a46420b26",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-27",
+    "summary": "Breaking day, again, calisthenics, anime, reading, and game",
+    "icon": "😡"
+  },
+  {
+    "id": "d35a29ff-093e-494b-9323-6869a8194246",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-26",
+    "summary": "Anime day, no working, still, calisthenics again",
+    "icon": "🤡"
+  },
+  {
+    "id": "63628604-2bc3-4cb7-94d3-dc35a57bfa84",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-25",
+    "summary": "Another bad day, always sleepy, not working",
+    "icon": "😡"
+  },
+  {
+    "id": "c6b14941-5d09-4753-9cb6-11370a2e5c0e",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-24",
+    "summary": "Continue a not working day, sai te, gradually keep up with this life ",
+    "icon": "😡"
+  },
+  {
+    "id": "3c7a90d3-e87a-4e27-800c-14f952d96d35",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-23",
+    "summary": "Go home, not working at all",
+    "icon": "😡"
+  },
+  {
+    "id": "38948c58-2049-46c6-a617-bc795e924fd3",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-22",
+    "summary": "Play DTCL all of the time, new calisthenics exercise, no work",
+    "icon": "😡"
+  },
+  {
+    "id": "789b363f-2460-4cf4-8142-ba5aad802f3c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-21",
+    "summary": "Understand better mnemonic, wallet, signer, Dapp workflow",
+    "icon": "🤡"
+  },
+  {
+    "id": "8685faaa-1195-416e-876a-932de877d13e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-20",
+    "summary": "Overslept again, find out that many things had to be done",
+    "icon": "🤡"
+  },
+  {
+    "id": "98d21368-50ff-4fdc-8a8f-bb22a5fac4cc",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2024-01-19",
+    "summary": "Feeling sick, not productive, overslept, pull-ups",
+    "icon": "😡"
+  },
+  {
+    "id": "4c7c4ad7-cad1-44f1-a1ec-fa01831e4101",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-18",
+    "summary": "Almost not working, sleepy, keep doing exercise, too much anime",
+    "icon": "🤡"
+  },
+  {
+    "id": "f0e409a8-ae44-4a91-a7be-529d649589ba",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-17",
+    "summary": "Didn’t work much, have fun with friends, done the second exam",
+    "icon": "🤡"
+  },
+  {
+    "id": "6c5c33b5-77da-411e-a9fd-60e467e3b7a3",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-16",
+    "summary": "Wake up late, prepare for the exam, done organization service",
+    "icon": "✅"
+  },
+  {
+    "id": "4267fc4e-5a5b-4a86-9a53-135584ee29af",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-15",
+    "summary": "Almost done debugging org service, wake up early",
+    "icon": "✅"
+  },
+  {
+    "id": "110c510f-70da-49dc-8700-b8f9694eb10b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-14",
+    "summary": "Learn about Nginx, CS50, keep up with Fieren",
+    "icon": "🤡"
+  },
+  {
+    "id": "46667ea0-27bd-4f9f-812d-9b3561561566",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-13",
+    "summary": "Wake up on time, done organization service",
+    "icon": "✅"
+  },
+  {
+    "id": "4f114027-1dad-4fc2-8ed5-ecb95abe151a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-12",
+    "summary": "A normal peaceful day, keep going ahead, call home",
+    "icon": "🤡"
+  },
+  {
+    "id": "a195b0a2-76cf-449d-aced-f40d4231114b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-11",
+    "summary": "Almost perfect, too much anime",
+    "icon": "✅"
+  },
+  {
+    "id": "16e27a85-8a79-4d79-9a65-94cb075a28d7",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2024-01-10",
+    "summary": "Done user services, exercise, Duolingo, reading, anime",
+    "icon": "🤩"
+  },
+  {
+    "id": "249d475a-9f1a-4ba1-bf29-c6410fe6c586",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-09",
+    "summary": "Redesign the database, done 4 habits",
+    "icon": "✅"
+  },
+  {
+    "id": "b3fc47e2-4105-4759-9c61-de433898eea8",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-08",
+    "summary": "Done the first exam, make a plan for the next days",
+    "icon": "✅"
+  },
+  {
+    "id": "ff6cb692-8c22-4f70-ad20-7419ad676583",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-07",
+    "summary": "Done the last deadline, prepare for the exam",
+    "icon": "🤡"
+  },
+  {
+    "id": "efdc6419-28bd-4aa0-b2f4-81c0a321aa39",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-06",
+    "icon": "✅"
+  },
+  {
+    "id": "00da3e82-f172-4357-af6c-7a28f25c690c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-05",
+    "summary": "Half bad + half good = normal",
+    "icon": "🤡"
+  },
+  {
+    "id": "7ca24975-6b07-498d-a85e-bbc0663b0da9",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2024-01-04",
+    "summary": "Not done anything, game, boring, register courses",
+    "icon": "🤬"
+  },
+  {
+    "id": "e26244c3-2e9c-4466-951f-bdcb2feb765b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-03",
+    "summary": "Deadline still not let me go, do some exercise, play game",
+    "icon": "🤡"
+  },
+  {
+    "id": "cecf11a3-289a-48b9-8a71-b0931bbfa80e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2024-01-02",
+    "summary": "Finally done.",
+    "icon": "✅"
+  },
+  {
+    "id": "163dc736-dbb4-4108-be44-e575d6a054f6",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-01-01",
+    "summary": "I’m back, still, keeping up with the deadline",
+    "icon": "🤡"
+  },
+  {
+    "id": "715941fd-3b91-471d-86bc-66dcb3c1bceb",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-31",
+    "summary": "Have fun with friends, no work",
+    "icon": "😡"
+  },
+  {
+    "id": "dc5bee33-39d5-4901-9a62-a0997bb01c92",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-30",
+    "summary": "Deadline, game, anime",
+    "icon": "😡"
+  },
+  {
+    "id": "8a0803e1-b76e-4e04-8e9d-c69cef5284e3",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-29",
+    "summary": "Go to the farm, healing, working",
+    "icon": "✅"
+  },
+  {
+    "id": "fd5a5386-3fe9-4b7f-ab7a-f60540b8f485",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-28",
+    "summary": "Temporary done deadline, sleeping to much",
+    "icon": "😡"
+  },
+  {
+    "id": "08e38d48-3c8a-4d88-bd54-836bbe82730c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-27",
+    "summary": "Go home",
+    "icon": "🤡"
+  },
+  {
+    "id": "148ff776-d35b-4bf7-8418-48786f8fb8cf",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-26",
+    "summary": "A boring day, prepare to back home",
+    "icon": "🤡"
+  },
+  {
+    "id": "ac0e7107-bf2b-441a-aa55-5db41073e3cd",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-25",
+    "summary": "Done deadline on time, 1 more left",
+    "icon": "✅"
+  },
+  {
+    "id": "b4c13296-ea8c-433e-a987-65403c0803ed",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-22",
+    "summary": "Go to school, doing homework, calisthenics, game",
+    "icon": "🤡"
+  },
+  {
+    "id": "a954250f-82f9-4ebf-a232-c9713b1d5e14",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-21",
+    "summary": "Done create table statements, 4 Hackerrank quizzes, calisthenics",
+    "icon": "✅"
+  },
+  {
+    "id": "f5627040-65b3-44f7-a95d-c4797dfddbaf",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-20",
+    "summary": "Meeting with teammate, 2 Hackerranks, have fun with friends",
+    "icon": "🤡"
+  },
+  {
+    "id": "4b3f9fd9-0896-437c-905d-4d1e0e795c71",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-19",
+    "summary": "Sport shop constraints, chess, calisthenics, Hackerrank",
+    "icon": "🤡"
+  },
+  {
+    "id": "61bbb99f-584b-4d0b-9a46-2e35a500a608",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-18",
+    "summary": "Better understanding of the project structure, walking",
+    "icon": "✅"
+  },
+  {
+    "id": "a927b88b-bf64-49f1-a463-4db55cfe27bc",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-17",
+    "summary": "Diving in chess, must be out now",
+    "icon": "🤡"
+  },
+  {
+    "id": "e542422c-1948-4da2-8299-2b769d35930b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-16",
+    "summary": "A productive morning, sleeping and playing chess",
+    "icon": "✅"
+  },
+  {
+    "id": "11ba5055-60a1-45d4-908b-cd8218a3561d",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-15",
+    "icon": "🤡"
+  },
+  {
+    "id": "39f9b8b2-7db2-4bdb-9539-2b573e507026",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-14",
+    "summary": "Done 1 report, one more left, still nervous.",
+    "icon": "✅"
+  },
+  {
+    "id": "a61f4068-209e-4494-be63-9391abcccbe6",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-13",
+    "summary": "Set up database migration",
+    "icon": "✅"
+  },
+  {
+    "id": "f7419a9c-9203-489b-ae92-c5bebfb28db4",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-12",
+    "summary": "Starting login function",
+    "icon": "✅"
+  },
+  {
+    "id": "abb9198b-3581-44d9-b346-3b40d0d1a8bd",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-11",
+    "summary": "Done create table statements, setting up database, configurations",
+    "icon": "🤡"
+  },
+  {
+    "id": "f1adbf83-fb47-44bf-82f0-07264386d080",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-10",
+    "summary": "Initialize the server, watching AOV",
+    "icon": "🤡"
+  },
+  {
+    "id": "e7d4ec4c-02fa-4d36-82a1-9a833fc2abe2",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-12-09",
+    "summary": "Back to the daily routine, continue learning about TEE",
+    "icon": "✅"
+  },
+  {
+    "id": "f8d4e6ab-3bfb-4c70-9b0b-214dccdacaae",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-08",
+    "summary": "Done a series days of deadlines, not working hard today",
+    "icon": "🤡"
+  },
+  {
+    "id": "6bb1f387-6091-4dcf-b655-2c0adf772149",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-07",
+    "summary": "Completed almost deadline, tedious day",
+    "icon": "🤡"
+  },
+  {
+    "id": "aebdb1b5-09f3-4a76-9f09-44a7f030afc0",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-06",
+    "icon": "🤡"
+  },
+  {
+    "id": "a2fbee43-9ded-490a-aad2-9a06a971be1f",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-05",
+    "summary": "Sleep and Game",
+    "icon": "🤬"
+  },
+  {
+    "id": "49ca960a-4d54-420d-b174-cf94dbb5379d",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-04",
+    "summary": "Sick again, still not complete the ERC ",
+    "icon": "😡"
+  },
+  {
+    "id": "402489cc-493c-4a17-b213-b75244f1e91b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-12-03",
+    "summary": "Not a good day, but not bad.",
+    "icon": "🤡"
+  },
+  {
+    "id": "8de9894f-12e0-4bea-a458-62abe6a220f1",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-02",
+    "icon": "😡"
+  },
+  {
+    "id": "2decef6b-55b3-4725-875e-10bf83c6645f",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-12-01",
+    "summary": "Job fair, some gifts, and burn",
+    "icon": "😡"
+  },
+  {
+    "id": "287c8e34-b215-4708-90db-11ab09abbd5c",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-30",
+    "summary": "File CV through the universe, have some fun",
+    "icon": "✅"
+  },
+  {
+    "id": "e02a313f-1091-4969-bfc1-3f3e1bb59017",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-29",
+    "summary": "Brute force labor, done 1 deadline, reading ethereumbook",
+    "icon": "✅"
+  },
+  {
+    "id": "c07c21c2-1a79-43d6-9c01-279fc73379d8",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-28",
+    "summary": "Found a great browser, Vivaldi. Not much about TEE",
+    "icon": "🤡"
+  },
+  {
+    "id": "b2a11056-d059-427e-90d0-ca865d1d9596",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-27",
+    "summary": "Not productive, do all fucking stuff",
+    "icon": "🤡"
+  },
+  {
+    "id": "019b56c2-1b45-4dbf-97de-e4446d24054c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-26",
+    "summary": "Have fun with friends, not a productive day",
+    "icon": "🤡"
+  },
+  {
+    "id": "1e78847f-be6b-4039-b948-487257d16bae",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-25",
+    "summary": "Completed the first course thesis, nothing more",
+    "icon": "🤡"
+  },
+  {
+    "id": "e6121315-2f3f-404c-97cc-ea783bfdc165",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-24",
+    "icon": "✅"
+  },
+  {
+    "id": "668090f2-06e8-47f1-837d-18599216ed14",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-23",
+    "icon": "🤡"
+  },
+  {
+    "id": "55a3373d-68b8-4bd6-8c1d-a161d02cc00c",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-22",
+    "summary": "A day of rest, breaking school, sleep over morning",
+    "icon": "🤡"
+  },
+  {
+    "id": "7e9969d1-cc94-4f53-89bd-159ac7ec0af0",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-21",
+    "summary": "Reinstall Docker engine, setting up local blockchain with Ganache",
+    "icon": "✅"
+  },
+  {
+    "id": "3dbe9f2d-b773-47cf-a14a-497480450e84",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-20",
+    "summary": "Made a better, simpler ERD. Learned some great mindset",
+    "icon": "🤡"
+  },
+  {
+    "id": "a698671c-8ab2-4555-b3c1-15ea0f899a40",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-19",
+    "icon": "🤡"
+  },
+  {
+    "id": "8695da9e-cf3d-4a5c-aa25-43a464a66a79",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-11-18",
+    "summary": "Slept over the morning, not done the report",
+    "icon": "😡"
+  },
+  {
+    "id": "efbef9bc-1c5b-4b7e-b251-154186899466",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-17",
+    "summary": "Forgot",
+    "icon": "🤡"
+  },
+  {
+    "id": "e24e504a-55de-46d0-a6fd-f297ffe19b23",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-16",
+    "summary": "2pm, the second staying up late night, completed the report structure ",
+    "icon": "✅"
+  },
+  {
+    "id": "0ec20160-bc7c-481f-98d5-ab563f8abbb7",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-15",
+    "icon": "🤡"
+  },
+  {
+    "id": "ef284867-c285-4b67-936c-c6001c2593bb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-14",
+    "summary": "Created a fucking crazy plan to stay up late",
+    "icon": "🤡"
+  },
+  {
+    "id": "d1087e29-8bcf-44dc-a5af-d5fe7cd5b2ef",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-13",
+    "summary": "Starting to play virtual piano, completely deploy the contracts",
+    "icon": "✅"
+  },
+  {
+    "id": "3be613ad-cf92-4b56-ba53-a9ee517f3582",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-12",
+    "summary": "Gaming again, follow up the deadlines ",
+    "icon": "🤡"
+  },
+  {
+    "id": "c76d2f25-5f89-4201-b31a-b2c5bee7834c",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-11",
+    "summary": "Done deploying all contracts, playing game",
+    "icon": "✅"
+  },
+  {
+    "id": "3667e080-23a9-4c78-86a8-d20ec84751ba",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-10",
+    "summary": "Sick again, read a lot of Ethereum clients and EVM",
+    "icon": "✅"
+  },
+  {
+    "id": "933ae103-eb19-44f7-8e17-6d63752d790e",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-09",
+    "summary": "Great working day, but emotion is not that good",
+    "icon": "✅"
+  },
+  {
+    "id": "b56f932e-fc6c-40fe-bdfb-9324d9aa5fcb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-08",
+    "icon": "🤡"
+  },
+  {
+    "id": "37d64195-ad9e-469c-ae22-dd125ebede01",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-07",
+    "summary": "Starting monk mode, no video, just sound. Last until the end of this year",
+    "icon": "🤡"
+  },
+  {
+    "id": "1338132b-446a-44c4-81d0-4c2aabe31698",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-06",
+    "summary": "Reinstall Windows, detect the problem of the laptop",
+    "icon": "✅"
+  },
+  {
+    "id": "010b7b4e-db6b-44f0-8c4b-f711404cbba1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-05",
+    "summary": "Hardworking but did not done anything, fuck my computer",
+    "icon": "🤡"
+  },
+  {
+    "id": "5af6a452-201c-406e-ba31-f85e1389d286",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-11-04",
+    "summary": "Done implementing Token Operator contract, setup remote coding environment",
+    "icon": "✅"
+  },
+  {
+    "id": "cdfc7c48-20fb-42c8-8991-a9b85f26a92b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-03",
+    "summary": "Downloading USB boot for an entire day, reading the Ethereum book",
+    "icon": "🤡"
+  },
+  {
+    "id": "de36f116-7736-4056-ad5b-57f175f4af95",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-11-02",
+    "summary": "I’m back! Returns after 4 days going home",
+    "icon": "🤡"
+  },
+  {
+    "id": "bb587e6f-cdfa-40d2-a33d-e9c696138d77",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-30",
+    "icon": "🤡"
+  },
+  {
+    "id": "86ab0fd1-c35c-47d6-b9d7-86c074b3ce2d",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-28",
+    "summary": "Completed biggest week goal, 3 tokens",
+    "icon": "✅"
+  },
+  {
+    "id": "bd9877b3-e850-49e0-9124-d6b00b68eb0b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-27",
+    "summary": "Fixing the lap all night, boring",
+    "icon": "✅"
+  },
+  {
+    "id": "0476a467-4072-4f10-bbbf-c21826d8208b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-26",
+    "summary": "Done doing homework, learn about cryptography",
+    "icon": "✅"
+  },
+  {
+    "id": "bb6e78bc-7a66-4845-a2f5-7db9b9236c8b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-25",
+    "summary": "Pretty tired. Continuously improve blockchain knowledge",
+    "icon": "🤡"
+  },
+  {
+    "id": "5cf031b0-b5d0-4431-ae07-364e8762e1b7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-10-24",
+    "summary": "Flashback to childhood. Waste the entire day fixing laptop",
+    "icon": "😡"
+  },
+  {
+    "id": "d4955a9e-5372-40d3-8927-9359630a4fb3",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-23",
+    "summary": "Have fun with friends. Feel really bad",
+    "icon": "🤡"
+  },
+  {
+    "id": "e4d4cd9b-b26b-432c-8f13-44f015eb1ad3",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-22",
+    "summary": "Starting to implement DID Registry. Have fun with friends",
+    "icon": "✅"
+  },
+  {
+    "id": "711e1008-14f9-4998-8488-d1c881245238",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-21",
+    "summary": "Have fun with friends. Done implementing EthereumClaimsRegistry",
+    "icon": "🤡"
+  },
+  {
+    "id": "2465430c-5d94-49a9-8c5b-31dea439fe56",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-20",
+    "summary": "Back to Reward Token, play AOV",
+    "icon": "🤡"
+  },
+  {
+    "id": "1e2c1a2c-6994-4d58-9c3b-27b238153b94",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-10-19",
+    "summary": "really really really really bad",
+    "icon": "😡"
+  },
+  {
+    "id": "b1ba4e9b-b416-4433-a94c-9b6d228a41f3",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-18",
+    "summary": "Doing homework after school and nothing",
+    "icon": "🤡"
+  },
+  {
+    "id": "6af278bf-3b1b-4009-a925-fd3e29ef670e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-17",
+    "summary": "Blood donation, homework, and nothing left",
+    "icon": "🤡"
+  },
+  {
+    "id": "1d906eb4-9244-457a-b9bb-287c09a5c14c",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-16",
+    "summary": "Completed daily goals early at night, watching anime in the rest",
+    "icon": "✅"
+  },
+  {
+    "id": "62215ec2-bc5c-4c56-a684-e2a55ae84d3a",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-10-15",
+    "summary": "Complete 70% of the ERC777 token, running",
+    "icon": "🤩"
+  },
+  {
+    "id": "ef231892-6267-485e-923b-631aad7416b0",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-15",
+    "icon": "🌻"
+  },
+  {
+    "id": "676cd9e8-a94c-4738-b928-874f3610c063",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-14",
+    "summary": "Have fun with friends, first step of ERC777 contract",
+    "icon": "✅"
+  },
+  {
+    "id": "da898701-25d3-40a4-bd93-5ac9b452f8d6",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-14",
+    "icon": "🌻"
+  },
+  {
+    "id": "a4fecd47-dad2-4b77-b517-f5f44c6f9320",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-13",
+    "summary": "Starting the hacking journey, installed Kali Linux and VMware",
+    "icon": "✅"
+  },
+  {
+    "id": "f593e8b5-2538-468d-94b5-e95f92587ba2",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-13",
+    "icon": "🌻"
+  },
+  {
+    "id": "3290a92a-e70c-4e84-9a53-8a9de20c5ccf",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-12",
+    "summary": "Got rid of those negative emotions, back to reward token",
+    "icon": "✅"
+  },
+  {
+    "id": "d92ff9c6-464e-4b4c-9d7e-3b7db3da41fb",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-12",
+    "icon": "🌻"
+  },
+  {
+    "id": "d33d4acd-30c1-40f8-ac2b-4cdfc602d24a",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-10-11",
+    "summary": "Very negative day, completed the Digital Fortress",
+    "icon": "🤬"
+  },
+  {
+    "id": "a1b7b1ce-7292-4335-8bd9-6b503cd2472d",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-11",
+    "icon": "🌻"
+  },
+  {
+    "id": "454abc97-68a7-47ba-9967-025f835cee34",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-10-10",
+    "summary": "Do nothing at all, playing all of the day",
+    "icon": "😡"
+  },
+  {
+    "id": "c94b1115-a6bd-4fd5-b216-754c8771412b",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-10",
+    "icon": "🌻"
+  },
+  {
+    "id": "6e4417e2-d3ea-412d-b0dc-dee1ebc83fc9",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-10-09",
+    "summary": " Can basically clone the EEA token, update the room",
+    "icon": "😡"
+  },
+  {
+    "id": "95dacab4-b66b-4596-8acf-caec48bc53a6",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-09",
+    "icon": "🌻"
+  },
+  {
+    "id": "f6ff423a-f9bd-42e6-8fa8-254301000af1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-08",
+    "summary": "Not much work, understand the EEA project better",
+    "icon": "🤡"
+  },
+  {
+    "id": "375a8f6e-c4bc-46b8-8878-46a5ce771737",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-08",
+    "icon": "🌻"
+  },
+  {
+    "id": "cde440ba-7676-4144-92e2-dbf5cd1231f9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-07",
+    "summary": "Create scientific research documentation, Flash top 4",
+    "icon": "✅"
+  },
+  {
+    "id": "33c9de8f-7742-4a97-83c9-257a1ddf2915",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-07",
+    "icon": "🌻"
+  },
+  {
+    "id": "4c9bf822-c98b-434c-9ab7-edd927c6a320",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-06",
+    "summary": "Not learning at all, hard exercise, watching AOV",
+    "icon": "🤡"
+  },
+  {
+    "id": "e55f5c05-6771-474d-964d-0290862bade5",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-06",
+    "icon": "🌻"
+  },
+  {
+    "id": "5aa762d8-b100-4022-98c7-bc79f5931ee3",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-10-05",
+    "summary": "Terrible day, all the bad things keep coming one after another",
+    "icon": "🤬"
+  },
+  {
+    "id": "287a1a2f-d737-416b-8825-78b5b30baeb4",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-05",
+    "icon": "🌻"
+  },
+  {
+    "id": "7eb4388b-f752-4d1b-b91c-7c2733a6905a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-10-04",
+    "summary": "Not productive at all, got a new helmet from the university",
+    "icon": "🤡"
+  },
+  {
+    "id": "0d2a67b3-3347-413a-899d-ed2e80790cba",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-04",
+    "icon": "🌻"
+  },
+  {
+    "id": "53dab2c4-26ed-43bd-88fb-2cb07870d608",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-03",
+    "summary": "Journaling in 3rd person, not a productive day",
+    "icon": "✅"
+  },
+  {
+    "id": "f5276584-330c-438c-a8c2-198f733d5951",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-03",
+    "icon": "🌻"
+  },
+  {
+    "id": "b677de89-9bc7-437b-bad3-e7a6e6e102e2",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-10-02",
+    "summary": "Almost complete slide, understand ERC, EIP better",
+    "icon": "🤩"
+  },
+  {
+    "id": "42360929-c018-41b7-9cb6-8487713f61d0",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-02",
+    "icon": "🌻"
+  },
+  {
+    "id": "e2a2ea23-3e91-439f-874a-4288eff13d1f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-10-01",
+    "summary": "Starting research the blockchain reward, read a lot",
+    "icon": "✅"
+  },
+  {
+    "id": "9602ffcb-1505-4104-8d67-763149f84ceb",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-10-01",
+    "icon": "🌻"
+  },
+  {
+    "id": "ff7d1c58-6d2d-4211-8048-f526dc6d9ee2",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-30",
+    "summary": "Joined a research team, read 50 pages of The Digital Fortress",
+    "icon": "✅"
+  },
+  {
+    "id": "6555de6b-8bf5-4794-83b1-285efba77001",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-30",
+    "icon": "🌻"
+  },
+  {
+    "id": "025f29ef-4cdc-4dc7-873f-3b76998e9d0e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-29",
+    "summary": "Long studying day, enjoy mid-autumn with family",
+    "icon": "🤡"
+  },
+  {
+    "id": "0dcdb497-40e7-4259-beb9-bf6dc4b41883",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-28",
+    "summary": "Gaming night, productive afternoon, quite empty",
+    "icon": "🤡"
+  },
+  {
+    "id": "9f774487-5068-44f7-a9d0-de1e5f6c04a4",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-28",
+    "icon": "🌻"
+  },
+  {
+    "id": "85b867fb-572e-47e9-b404-4b63ae60f40f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-27",
+    "summary": "Back to Leetocde, still not done with the first one",
+    "icon": "✅"
+  },
+  {
+    "id": "d06f1d1e-55f1-4c23-980d-bfff620fd72e",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-27",
+    "icon": "🌻"
+  },
+  {
+    "id": "eb06bb21-e6e2-4ae1-a145-d61827853d58",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-26",
+    "summary": "I’m back, not so productive, started to learn DP",
+    "icon": "✅"
+  },
+  {
+    "id": "cc2d11fc-4b34-4a7f-98e7-a361c06637ad",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-26",
+    "icon": "🌻"
+  },
+  {
+    "id": "8661741f-7a1c-49b7-92ef-45321d97127b",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-25",
+    "summary": "Half of Blockchain, half of gaming, pretty bad",
+    "icon": "😡"
+  },
+  {
+    "id": "23c854fc-44ad-447a-97e0-54e24315deb3",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-25",
+    "icon": "🌻"
+  },
+  {
+    "id": "5ed2aa66-60d1-422c-8495-93560fa603b0",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-09-24",
+    "summary": "Not learning at all, super tired day, fucking illness",
+    "icon": "🤬"
+  },
+  {
+    "id": "956f393f-c39c-4bc6-897c-680417944b92",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-24",
+    "icon": "🌻"
+  },
+  {
+    "id": "672bd709-e8a8-4716-a11d-266d884f1bd7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-23",
+    "summary": "I feel so sick today, really tired, argg",
+    "icon": "😡"
+  },
+  {
+    "id": "e4c352d4-023a-4be1-9724-faa4bb70fcb8",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-23",
+    "icon": "🌻"
+  },
+  {
+    "id": "2b0a2af8-0553-4336-a1de-e0c077d1acdd",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-22",
+    "summary": "Start seeking for a mentor, back to learning blockchain",
+    "icon": "✅"
+  },
+  {
+    "id": "12490d5d-f281-4f26-a7b6-9dacb4f8ec6c",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-22",
+    "icon": "🌻"
+  },
+  {
+    "id": "e3b2ea05-09da-4619-99d2-ac2cc4670753",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-21",
+    "summary": "Joined a new group, complete The Little Prince",
+    "icon": "🤡"
+  },
+  {
+    "id": "306300b1-78d4-449c-9def-a00710a1d4bb",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-21",
+    "icon": "🌻"
+  },
+  {
+    "id": "dcbfee20-fcd8-422d-af75-5c86f1447750",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-20",
+    "summary": "Half a day school, half a day gaming, and anime",
+    "icon": "🤡"
+  },
+  {
+    "id": "b2f51f2f-bcc1-438d-9547-b6f71dbd3018",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-20",
+    "icon": "🌻"
+  },
+  {
+    "id": "b596f2c2-8709-4172-a92f-c84940bcccdc",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-19",
+    "summary": "Half of game, Half of work, not productive",
+    "icon": "🤡"
+  },
+  {
+    "id": "cdecf41b-7764-4655-a95c-f8efeea10b1d",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-19",
+    "icon": "🌻"
+  },
+  {
+    "id": "f0114c75-d31d-4fe8-89fb-e2faa80a9401",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-18",
+    "summary": "Done gaming, back to brute force labor",
+    "icon": "✅"
+  },
+  {
+    "id": "e0fb71a2-d8a0-45a4-a813-37a62e4fb0a8",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-18",
+    "icon": "🌻"
+  },
+  {
+    "id": "26909ac8-68ff-4ec9-8faf-6e3fae9cf5d7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-17",
+    "summary": "Arggg, aov",
+    "icon": "😡"
+  },
+  {
+    "id": "a796247f-6636-4b72-a601-39448bf9c8c1",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-17",
+    "icon": "🌻"
+  },
+  {
+    "id": "5a4aabfc-63f9-4370-98f7-91d581ea5068",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-16",
+    "summary": "Learning time is quite little, most of the time is playing game",
+    "icon": "😡"
+  },
+  {
+    "id": "0408f4d7-a958-4150-87cc-21d254248c89",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-16",
+    "icon": "🌻"
+  },
+  {
+    "id": "18c35027-6ce4-434f-9d6f-9054a00caa45",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-15",
+    "summary": "Connect LAN, completely fix contract deployment error",
+    "icon": "✅"
+  },
+  {
+    "id": "806164fe-4cd6-4a6e-ac0d-64caf32c91c3",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-15",
+    "icon": "🌻"
+  },
+  {
+    "id": "2dc4f54e-41d8-4ca2-8460-52d6b82fe79b",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-14",
+    "summary": "Sleeping all the afternoon, still unable to fix deployment contract bug",
+    "icon": "🤡"
+  },
+  {
+    "id": "e9db9dae-b41e-4a90-84fa-374d27fe5c40",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-14",
+    "icon": "🌻"
+  },
+  {
+    "id": "48970926-1515-4899-a799-c89e475570f1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-13",
+    "summary": "First day back to school, a bit of a pain in the ass",
+    "icon": "🤡"
+  },
+  {
+    "id": "c838fc4a-651e-41d9-ad7d-6b3240bc0279",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-13",
+    "icon": "🌻"
+  },
+  {
+    "id": "a2a51311-a2b2-41fc-a394-568991ddff3b",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-12",
+    "summary": "Learning Blockchain, start to watch anime again, qutie tired",
+    "icon": "😡"
+  },
+  {
+    "id": "ffcc6c3c-cb11-4322-bce9-3303089121a1",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-12",
+    "icon": "🌻"
+  },
+  {
+    "id": "9970b251-99d6-45ab-b6c9-84655f6b560a",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-11",
+    "summary": "Learn Blockchain almost of the time, read some pages",
+    "icon": "✅"
+  },
+  {
+    "id": "0a869abe-6989-45c8-92ed-92e89d5974a3",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-11",
+    "icon": "🌻"
+  },
+  {
+    "id": "030e1fc6-d5cb-4503-8237-b4b1e92dc15a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-10",
+    "summary": "Blockchain day, not productive, start divivng into Solidity",
+    "icon": "🤡"
+  },
+  {
+    "id": "8adcb89f-3098-4164-9e5f-5fd20091e4c3",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-10",
+    "icon": "🌻"
+  },
+  {
+    "id": "1732073f-bd32-40b8-9b77-0b7c286df9e7",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-09",
+    "summary": "Cutting hair, welcome rain emoto",
+    "icon": "🤡"
+  },
+  {
+    "id": "71069df8-21d8-42e2-ac1c-10d66658c8b6",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-09",
+    "icon": "🌻"
+  },
+  {
+    "id": "0e247309-7823-4c0c-a0a2-4179ea3de948",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-08",
+    "summary": "Completed UI for task section, and pomodoro logic",
+    "icon": "✅"
+  },
+  {
+    "id": "4b625609-784b-4b1f-8fb4-c3634c4582b9",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-08",
+    "icon": "🌻"
+  },
+  {
+    "id": "6e331070-fea2-4e33-9817-c7b6387727c7",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-09-07",
+    "summary": "Complete the first version of pomodoro logic",
+    "icon": "✅"
+  },
+  {
+    "id": "4b12089e-1cbe-41c9-b5a5-9ac609893e9a",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-07",
+    "icon": "🌻"
+  },
+  {
+    "id": "9f783f84-8d22-484e-a4d3-35a65eac4d0c",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-09-06",
+    "summary": "Learn to build a Chrome Extension, superb tired",
+    "icon": "🤩"
+  },
+  {
+    "id": "f25531d1-cf43-40bd-8a21-3ee42d602676",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-06",
+    "icon": "🌻"
+  },
+  {
+    "id": "5f614528-884f-47fa-856a-edb597fcf859",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-09-05",
+    "summary": "Start diving into Blockchain world, super productive",
+    "icon": "🤩"
+  },
+  {
+    "id": "b46a92db-e745-4b84-99bb-02838b5d2c5f",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-05",
+    "icon": "🌻"
+  },
+  {
+    "id": "dd104898-27e8-478d-bb95-daca1bce6810",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-09-04",
+    "summary": "Learning Redis, set up golang compiler, super productive",
+    "icon": "🤩"
+  },
+  {
+    "id": "ed1e514f-3ff8-47cb-8c84-04b0ea61fb40",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-04",
+    "icon": "🌻"
+  },
+  {
+    "id": "d99316ba-2c74-4181-a8f5-9cfd9bc964c8",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-03",
+    "summary": "Planning, Reading, and do nothing",
+    "icon": "🤡"
+  },
+  {
+    "id": "de5db7a5-8aa0-48e5-972b-d1ec497533b7",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-03",
+    "icon": "🌻"
+  },
+  {
+    "id": "40dea0de-2ba0-48a0-b54f-be0dbc31a4f9",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-09-02",
+    "summary": "Breaking day, no working, go out with family, watch OP and anime",
+    "icon": "🤡"
+  },
+  {
+    "id": "b37fb43d-4c64-4a56-88cf-5619e7ccc371",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-02",
+    "icon": "🌻"
+  },
+  {
+    "id": "f069767b-857e-4c6d-96b1-9b2b51dd9636",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-09-01",
+    "summary": "Burn out, completed the projects, the fire is off, game and OP movie",
+    "icon": "😡"
+  },
+  {
+    "id": "7ff45330-16cb-4643-9313-78c8c1f6d2b4",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-09-01",
+    "icon": "🌻"
+  },
+  {
+    "id": "7b8470d0-07b9-4f9c-af9e-fe8081c3f7ba",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-31",
+    "summary": "Pretty much game, productivity is good, complete the first versio of the profile-card",
+    "icon": "✅"
+  },
+  {
+    "id": "1aa222aa-1959-46e7-af85-dcdd9e9724dc",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-31",
+    "icon": "🌻"
+  },
+  {
+    "id": "39a75dd7-7a1d-425d-95e6-cc91d05231ef",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-30",
+    "summary": "Super productive, tired, complete the first raw version of LOCs",
+    "icon": "🤩"
+  },
+  {
+    "id": "4e2065c0-9716-42f9-bdf5-5397d09491e8",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-30",
+    "icon": "🌻"
+  },
+  {
+    "id": "ad3efdab-65a8-495f-bab9-041e5daf1ea4",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-29",
+    "summary": "Start to build life overview app, switching off again, not productive",
+    "icon": "🤡"
+  },
+  {
+    "id": "2eab985d-96a8-4b83-9417-1b8634152b48",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-29",
+    "icon": "🌻"
+  },
+  {
+    "id": "7d82ffe0-4c4d-4dae-9926-7d5d1c7ecbc2",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-28",
+    "summary": "Understand C.A better, start to create contribution streak on Github",
+    "icon": "🤡"
+  },
+  {
+    "id": "9957c4f4-86f0-4ae5-98a0-facf09414b13",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-28",
+    "icon": "🌻"
+  },
+  {
+    "id": "f4c723ac-8a6d-489f-8377-f5ad507bbc32",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-27",
+    "icon": "🤡"
+  },
+  {
+    "id": "16aae39e-dc10-463f-b946-c3c427ab4ed2",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-27",
+    "icon": "🌻"
+  },
+  {
+    "id": "ca6b32b6-6e9a-481e-a5db-1b4d35393110",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-08-26",
+    "summary": "Canceled the first job, depressed",
+    "icon": "😡"
+  },
+  {
+    "id": "14349c9d-86b2-4bfd-9080-88ec7d35b249",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-26",
+    "icon": "🌻"
+  },
+  {
+    "id": "fb4ff299-5fa8-403d-811e-ef093bcbf28f",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-25",
+    "summary": "Got the first job: Build a landing page from Figma, NextJS (1tr6)",
+    "icon": "✅"
+  },
+  {
+    "id": "87c950ff-79d5-4e1f-9c3f-1595a2c6803a",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-25",
+    "icon": "🌻"
+  },
+  {
+    "id": "6b9b4d3f-1fb2-4ab9-b025-d7d278ab6801",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-24",
+    "summary": "Make some important decisions, not working at all",
+    "icon": "🤡"
+  },
+  {
+    "id": "6cf8221a-ead6-4bc8-9024-73baa97a4ffe",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-24",
+    "icon": "🌻"
+  },
+  {
+    "id": "c5e1b0d8-e9b2-484d-80a8-847a598d9db7",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-08-23",
+    "summary": "Got the first offer, do nothing",
+    "icon": "😡"
+  },
+  {
+    "id": "b6f13c31-171a-4a67-bb23-819d30650de6",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-23",
+    "icon": "🌻"
+  },
+  {
+    "id": "b8dc8815-8607-4d7f-9626-94d3f99191de",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-22",
+    "summary": "Switching off, leaning programming architecture and basic of JS",
+    "icon": "🤡"
+  },
+  {
+    "id": "6675f71f-d44a-429f-be28-c8525baba60f",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-22",
+    "icon": "🌻"
+  },
+  {
+    "id": "f641c530-02d4-4987-8804-46096a0539d1",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-08-21",
+    "summary": "Do nothing, switching off, reading and 2’s birthday",
+    "icon": "🤬"
+  },
+  {
+    "id": "fdde3e92-e831-4c9a-bee0-29a0e347b53f",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-21",
+    "icon": "🌻"
+  },
+  {
+    "id": "5f0f8bc6-68d2-45aa-ab9d-91b76a8cb9a6",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-20",
+    "summary": "Starting day of 20 pomodoros & 80 pushing ups",
+    "icon": "🤩"
+  },
+  {
+    "id": "473fb45e-196c-4209-80bd-f8fd59c626a5",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-20",
+    "icon": "🌻"
+  },
+  {
+    "id": "3842a630-08c9-4f92-9fe9-2781a38ec332",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-08-19",
+    "summary": "Lots of free time, not learning at all",
+    "icon": "😡"
+  },
+  {
+    "id": "4b56df08-61aa-45d1-82e3-9a83fa5aec8f",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-19",
+    "icon": "🌻"
+  },
+  {
+    "id": "b70a5c24-6a2c-4ab9-8794-14e321a836c5",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-18",
+    "summary": "super low productive, go out with friends",
+    "icon": "🤡"
+  },
+  {
+    "id": "679279f8-6e02-4b82-952c-863510b80713",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-18",
+    "icon": "🌻"
+  },
+  {
+    "id": "01bb0702-971e-48dd-be24-415a443b37a1",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-17",
+    "summary": "Not so productive, quite a lot of free time",
+    "icon": "✅"
+  },
+  {
+    "id": "656ad22f-1c8b-42bb-a94b-45a0af4c2f26",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-17",
+    "icon": "🌻"
+  },
+  {
+    "id": "dad95f70-1812-4090-b60c-7b3763c0df77",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-16",
+    "summary": "Using pomodoro half of the time, not bad day",
+    "icon": "🤡"
+  },
+  {
+    "id": "c4e5d0c3-86aa-4c6f-bc1f-2e1ef45a9b54",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-16",
+    "icon": "🌻"
+  },
+  {
+    "id": "ffa5606d-78b6-42c4-8e4f-f58f36805595",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-15",
+    "summary": "Learning, Rap Viet and AOV",
+    "icon": "🤡"
+  },
+  {
+    "id": "12cbf874-a498-421b-8d5a-fe1249c654cd",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-15",
+    "icon": "🌻"
+  },
+  {
+    "id": "05daef78-8b67-46b8-97e1-57a34247f3c1",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-14",
+    "summary": "Pretty tired, distracted by porn",
+    "icon": "🤡"
+  },
+  {
+    "id": "5e4ba130-f00e-4a06-8d03-bdb68837fb04",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-14",
+    "icon": "🌻"
+  },
+  {
+    "id": "1eea47c1-da66-4bf3-ad74-48d2df6942b1",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-13",
+    "summary": "Really satisfied, visit sister My",
+    "icon": "🤩"
+  },
+  {
+    "id": "6256780e-5210-4f33-9248-8f757b3fbcec",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-13",
+    "icon": "🌻"
+  },
+  {
+    "id": "b6fd4456-2826-4f4b-ad49-6e1b6fa56045",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-12",
+    "summary": "Working hard, quite lack of time",
+    "icon": "✅"
+  },
+  {
+    "id": "48cd3dbf-74d7-46e6-8c0e-1698bdf701a4",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-12",
+    "icon": "🌻"
+  },
+  {
+    "id": "57241f1b-4d27-4a59-b424-daa435b08662",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-11",
+    "summary": "Superb tired because a Leetcode question",
+    "icon": "🤩"
+  },
+  {
+    "id": "7f0b6d2b-f49e-4a26-ba53-04ecccc1d15a",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-11",
+    "icon": "🌻"
+  },
+  {
+    "id": "d2956926-a76d-4107-94fd-1dd3e0dc8307",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-08-10",
+    "summary": "Sleep pretty much, fire is not strong",
+    "icon": "🤡"
+  },
+  {
+    "id": "615ed6d0-70e1-4116-b2f4-ab67e67f7dcc",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-10",
+    "icon": "🌻"
+  },
+  {
+    "id": "a672c0d9-714f-4e3b-8731-a65f396b99d9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-09",
+    "summary": "Feeling good, not productive",
+    "icon": "✅"
+  },
+  {
+    "id": "3eda6e7f-9727-4a3e-8255-b86d18174ca1",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-09",
+    "icon": "🌻"
+  },
+  {
+    "id": "65e7b321-8ae4-466c-9d64-04832291b676",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-08",
+    "summary": "Positive, long flowed time",
+    "icon": "🤩"
+  },
+  {
+    "id": "b2093ea6-61e5-463a-9c75-d10ff1954a3d",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-08",
+    "icon": "🌻"
+  },
+  {
+    "id": "4c2a155b-69ee-41e5-8f58-b92abaebea46",
+    "title": "Amazing",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-08-07",
+    "summary": "No nagative, really satisfied",
+    "icon": "🤩"
+  },
+  {
+    "id": "769fd45c-e80a-40c1-bf76-dec867e2136a",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-07",
+    "icon": "🌻"
+  },
+  {
+    "id": "1e44f5a7-172e-429b-b2d0-604838a5e82b",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-06",
+    "summary": "Pretty satisfied, feel so energy",
+    "icon": "✅"
+  },
+  {
+    "id": "211c8d8d-1c5a-484c-804b-e56132a35f29",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-06",
+    "icon": "🌻"
+  },
+  {
+    "id": "949aee82-123e-4014-886f-6c7b1cabf4e1",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-08-05",
+    "summary": "Feel energy, positive",
+    "icon": "✅"
+  },
+  {
+    "id": "5eb7c011-d7f7-4e60-8590-7796c45d26cd",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-05",
+    "icon": "🌻"
+  },
+  {
+    "id": "a65ad4bd-9834-4098-b59f-0920abbc1bf1",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-08-04",
+    "summary": "Argggggghhhgh",
+    "icon": "🤬"
+  },
+  {
+    "id": "b8e516ad-fcef-4918-8d0d-37150b90215b",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-04",
+    "icon": "🌻"
+  },
+  {
+    "id": "8ef17648-9478-40bc-a23e-d027c3db33fc",
+    "title": "Awful",
+    "tags": [
+      {
+        "id": "b884e0b7-1460-494e-af1a-a75913cc1e16",
+        "name": "-2",
+        "color": "red"
+      }
+    ],
+    "date": "2023-08-03",
+    "summary": "Empty day",
+    "icon": "🤬"
+  },
+  {
+    "id": "9ad2b6b0-9656-4324-9775-3a7ea07c3bb9",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-02",
+    "icon": "🌻"
+  },
+  {
+    "id": "d9e399a6-0f84-4884-98e2-6b473e4683ac",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-08-01",
+    "summary": "Pretty bad, didn’t do much",
+    "icon": "😡"
+  },
+  {
+    "id": "4f78d71b-ca28-4457-bd5d-2c388f15688f",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-08-01",
+    "icon": "🌻"
+  },
+  {
+    "id": "006f022b-4218-4a0e-ac21-54be2e298f07",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-07-31",
+    "icon": "🤬"
+  },
+  {
+    "id": "ecc959d2-1056-4fa3-8595-51cc34a8b6f3",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-07-31",
+    "icon": "🌻"
+  },
+  {
+    "id": "8634321f-e44a-484a-b7f0-91668c8a7701",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-07-30",
+    "icon": "🤬"
+  },
+  {
+    "id": "b1317058-f0d0-47cc-a1b7-64b55a553884",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-07-30",
+    "icon": "🌻"
+  },
+  {
+    "id": "1feb942e-812e-4511-b6e6-ee7d5ecf1516",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-29",
+    "icon": "🤡"
+  },
+  {
+    "id": "87d5e82d-19c5-4c9c-9835-9f421ce0dda1",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-07-29",
+    "icon": "🌻"
+  },
+  {
+    "id": "7bc173d8-2790-45c2-a4ff-6173a01e34ef",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-28",
+    "icon": "🤡"
+  },
+  {
+    "id": "f71cebb5-5506-490a-8460-9dc7e36f3b15",
+    "title": "Morning",
+    "tags": [],
+    "date": "2023-07-28",
+    "icon": "🌻"
+  },
+  {
+    "id": "8a20f6bc-04c8-452e-989e-54673572e089",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-07-27",
+    "icon": "🤬"
+  },
+  {
+    "id": "9ee3cf0b-2321-4f82-8f48-68a12e6f265e",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-26",
+    "icon": "🤡"
+  },
+  {
+    "id": "3807667d-0b17-42f0-9bb9-ffc6b8e5e879",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-25",
+    "icon": "🤡"
+  },
+  {
+    "id": "e04e474d-2013-49fb-a1c0-2d197258f75f",
+    "title": "Great",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-07-24",
+    "icon": "🤩"
+  },
+  {
+    "id": "e7857357-54ef-4134-96e0-e440567722c9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-23",
+    "icon": "✅"
+  },
+  {
+    "id": "f6030c86-9010-4f1c-9ae4-fe75f19421f9",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-22",
+    "icon": "🤬"
+  },
+  {
+    "id": "14eccf37-ad95-4bac-939c-bab2907d78a9",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-07-21",
+    "icon": "🤬"
+  },
+  {
+    "id": "6b154845-c7c5-4a12-8cac-d29318dc7cca",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-19",
+    "icon": "🤬"
+  },
+  {
+    "id": "8097b9c4-b0dd-4f6b-9acf-cee72323c636",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-18",
+    "icon": "✅"
+  },
+  {
+    "id": "865945c7-bccb-4b53-b5f7-ee2b86f63f11",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-17",
+    "icon": "✅"
+  },
+  {
+    "id": "25df8052-b2c7-4357-88e6-94ff16a5ca3a",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-07-16",
+    "icon": "✅"
+  },
+  {
+    "id": "12a24682-5d6f-42e3-8e14-2529bcc0cbc5",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-06",
+    "icon": "✅"
+  },
+  {
+    "id": "2c8235ac-cca2-46dc-8ff6-93bf4349b73c",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-05",
+    "icon": "✅"
+  },
+  {
+    "id": "652d2e55-bf1b-4445-9bff-ac1b21f6e022",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-04",
+    "icon": "✅"
+  },
+  {
+    "id": "2dcd3705-1e5e-4b2c-8d71-f1e55d417fd9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-03",
+    "icon": "✅"
+  },
+  {
+    "id": "dad72677-857c-4b13-890a-1d5dd6ea7bf9",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-02",
+    "icon": "✅"
+  },
+  {
+    "id": "9e8ef263-3141-4c70-8af0-1a530c330352",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-07-01",
+    "icon": "✅"
+  },
+  {
+    "id": "b1103188-e02e-4585-9a96-2bd3e9ede2ec",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-06-30",
+    "icon": "✅"
+  },
+  {
+    "id": "c1ded2cd-4b10-4d0d-9bb4-559d739dae57",
+    "title": "Nice",
+    "tags": [
+      {
+        "id": "20765f06-a4f3-4f0e-8312-e18700d579b7",
+        "name": "+1",
+        "color": "green"
+      }
+    ],
+    "date": "2023-06-29",
+    "icon": "✅"
+  },
+  {
+    "id": "138bbd26-36e8-484a-b5df-62fc57e080b8",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-06-28",
+    "icon": "🤡"
+  },
+  {
+    "id": "3033f7cf-0ba7-4262-b39e-63fc122cdec1",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-06-27",
+    "icon": "🤬"
+  },
+  {
+    "id": "e53947f8-3e3f-4271-95fb-25a6714665eb",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-06-26",
+    "icon": "🤡"
+  },
+  {
+    "id": "fd9f92fd-4518-415a-9224-b1da9fe0e14a",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2023-06-25",
+    "icon": "🤡"
+  },
+  {
+    "id": "4dcc181c-dd87-4958-9e68-bb949e538559",
+    "title": "Bad",
+    "tags": [
+      {
+        "id": "54ca1fc1-274a-4099-8812-840c969887d0",
+        "name": "-1",
+        "color": "orange"
+      }
+    ],
+    "date": "2023-06-24",
+    "icon": "🤬"
+  },
+  {
+    "id": "9929b6e1-a461-43d2-ae72-f97a8e874c18",
+    "title": "Great",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-06-23",
+    "icon": "🤩"
+  },
+  {
+    "id": "b147247b-ee70-4cbd-99f4-bcb284926b5a",
+    "title": "Great",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-06-22",
+    "icon": "🤩"
+  },
+  {
+    "id": "bddb910d-106b-4c79-81ea-e1f7a689f02e",
+    "title": "Great",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-06-21",
+    "icon": "🤩"
+  },
+  {
+    "id": "9add82c7-5f07-4595-a936-2a080cd4cc12",
+    "title": "Great",
+    "tags": [
+      {
+        "id": "39049a88-cba1-4135-90d8-76041251e844",
+        "name": "+2",
+        "color": "purple"
+      }
+    ],
+    "date": "2023-06-20",
+    "icon": "🤩"
+  },
+  {
+    "id": "16ba1482-dd23-80dd-9096-c366ad03c461",
+    "title": "Normal",
+    "tags": [
+      {
+        "id": "dc22ffe0-7088-499a-8059-ab255d34b70a",
+        "name": "0",
+        "color": "default"
+      }
+    ],
+    "date": "2024-12-29",
+    "icon": "🤡"
+  }
+]

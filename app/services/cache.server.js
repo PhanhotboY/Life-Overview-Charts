@@ -50,6 +50,7 @@ const getCache = async () => {
   try {
     const file = readFileSync(resolve(__dirname, 'app/cache/notion.json'));
     const data = JSON.parse(Buffer.from(file).toString());
+    console.log('cached: ', data.length);
     data.sort((a, b) => new Date(b.date) - new Date(a.date));
     return data;
   } catch (e) {
