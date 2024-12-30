@@ -10,40 +10,44 @@ import {
   createWeekData,
   createYearData,
 } from '../services/data.service';
-import { getCache, setCache } from '../services/cache.server';
 import {
   addDays,
   addMonths,
   addYears,
   format,
-  isBefore,
   subDays,
   subMonths,
-  subWeeks,
   subYears,
 } from 'date-fns';
 
 export const loader = async () => {
   try {
-    const today = format(new Date(), 'yyyy-MM-dd');
-    let cache = await getCache();
-    let lastUpdate = cache[0] || { date: '2021-01-01' };
+    let items = [];
+    let next_cursor = '9add82c7-5f07-4595-a936-2a080cd4cc12';
     let has_more = true;
 
-    while (isBefore(new Date(lastUpdate.date), new Date(today)) && has_more) {
+    while (has_more) {
       const res = await NotionService.getItems({
-        start_cursor: lastUpdate.id || '9add82c7-5f07-4595-a936-2a080cd4cc12',
+        start_cursor: next_cursor,
       });
-      console.log(res.results.length);
 
-      console.log(res.results.length);
-      await setCache(res.results);
-      cache = await getCache();
-      lastUpdate = cache[0];
+      items = [
+        ...items,
+        ...res.results.map((item) => ({
+          id: item.id,
+          title: item.properties.Name.title[0]?.plain_text,
+          tags: item.properties.Tags.multi_select,
+          date: item.properties.Date.date.start,
+          summary: item.properties.Summary.rich_text[0]?.plain_text,
+          icon: item.icon?.emoji,
+        })),
+      ];
+      next_cursor = res.next_cursor;
       has_more = res.has_more;
     }
 
-    return { items: cache };
+    items.sort((a, b) => new Date(b.date) - new Date(a.date));
+    return { items };
   } catch (error) {
     console.error(error);
     return {
