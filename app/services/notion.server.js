@@ -43,6 +43,7 @@ export default class NotionService {
     let has_more = true;
 
     while (has_more) {
+      console.log('fetching items', next_cursor);
       const res = await this.fetchDatabase({
         date: {
           from: from.toISOString(),
