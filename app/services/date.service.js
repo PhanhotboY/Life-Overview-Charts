@@ -53,6 +53,15 @@ export function getFullWeekDates(
   return getDates(firstWeekDate, lastWeekDate);
 }
 
+export function getDateObject(dateStr) {
+  const date = new Date(dateStr);
+  return {
+    day: date.getDate(),
+    month: date.getMonth(),
+    year: date.getFullYear(),
+  };
+}
+
 Date.prototype.getWeek = function (dowOffset) {
   /*getWeek() was developed by Nick Baicoianu at MeanFreePath: http://www.meanfreepath.com */
 
