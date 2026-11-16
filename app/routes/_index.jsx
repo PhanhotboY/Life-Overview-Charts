@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { useLoaderData, useNavigate, useRevalidator } from '@remix-run/react';
+import { Link, useLoaderData, useNavigate } from '@remix-run/react';
 
 import GithubProfile from '../components/GithubProfile';
 import NotionService from '../services/notion.server';
@@ -14,12 +14,11 @@ import {
   addDays,
   addMonths,
   addYears,
-  format,
   subDays,
   subMonths,
   subYears,
 } from 'date-fns';
-import { getDateObject, getFirstYearDate } from '../services/date.service';
+import { getDateObject } from '../services/date.service';
 
 const getFirstDateOf = (type, date) => {
   switch (type) {
@@ -73,42 +72,25 @@ const getPrevDate = (type, date) => {
   }
 };
 
-export const loader = ({ request }) => {
+export const loader = async ({ request }) => {
   const url = new URL(request.url);
   const type = url.searchParams.get('type') || 'month';
   const date = url.searchParams.get('date') || new Date().toISOString();
 
-  try {
-    // cannot get all items at once
-    const items = NotionService.getItems({
-      date: {
-        from: getFirstDateOf(type, new Date(date)),
-        to: getLastDateOf(type, new Date(date)),
-      },
-    });
+  const items = await NotionService.getItems({
+    date: {
+      from: getFirstDateOf(type, new Date(date)),
+      to: getLastDateOf(type, new Date(date)),
+    },
+  });
 
-    return { items, type, date };
-  } catch (error) {
-    console.error(error);
-    return {
-      items: {
-        results: [],
-        has_more: false,
-        next_cursor: null,
-      },
-      type,
-      date,
-    };
-  }
-  // const res = await fetch('http://localhost:5173/notion.sample.json');
-  // const items = await res.json();
+  return { items, type, date };
 };
 
 export default function Index() {
   const chartRef = useRef();
   const { items, type, date } = useLoaderData();
   const navigate = useNavigate();
-  const validator = useRevalidator();
 
   const [totalPoint, setTotalPoint] = useState(0);
 
@@ -194,7 +176,6 @@ export default function Index() {
                 defaultValue={type}
                 onChange={(e) => {
                   navigate(`/?type=${e.target.value}`);
-                  validator.revalidate();
                 }}
               >
                 <option value='year'>year</option>
@@ -208,17 +189,14 @@ export default function Index() {
               </div>
 
               <div className='forward'>
-                <div
+                <Link
+                  aria-label='Previous period'
                   className='back'
-                  onClick={() => {
-                    navigate(
-                      `/?type=${type}&date=${getPrevDate(
-                        type,
-                        new Date(date)
-                      ).toISOString()}`
-                    );
-                    validator.revalidate();
-                  }}
+                  prefetch='intent'
+                  to={`/?type=${type}&date=${getPrevDate(
+                    type,
+                    new Date(date)
+                  ).toISOString()}`}
                 >
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
@@ -227,23 +205,20 @@ export default function Index() {
                   >
                     <path d='M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z' />
                   </svg>
-                </div>
+                </Link>
 
                 <span className='selection'>
                   {getLabelContent(type, new Date(date))}
                 </span>
 
-                <div
+                <Link
+                  aria-label='Next period'
                   className='next'
-                  onClick={() => {
-                    navigate(
-                      `/?type=${type}&date=${getNextDate(
-                        type,
-                        new Date(date)
-                      ).toISOString()}`
-                    );
-                    validator.revalidate();
-                  }}
+                  prefetch='intent'
+                  to={`/?type=${type}&date=${getNextDate(
+                    type,
+                    new Date(date)
+                  ).toISOString()}`}
                 >
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
@@ -252,7 +227,15 @@ export default function Index() {
                   >
                     <path d='M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z' />
                   </svg>
-                </div>
+                </Link>
+
+                <Link
+                  className='today'
+                  prefetch='intent'
+                  to={`/?type=${type}&date=${new Date().toISOString()}`}
+                >
+                  Today
+                </Link>
               </div>
             </div>
           )}
