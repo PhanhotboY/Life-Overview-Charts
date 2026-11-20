@@ -32,7 +32,7 @@ export default function GithubProfile() {
       />
 
       <img
-        src="https://github-stats-extended.vercel.app/api?username=phannd353&show_icons=true&show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&theme=dark_github"
+        src="https://github-stats-extended.vercel.app/api?username=phannd353&show_icons=true&show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_reviewed,issues_commented&theme=dark_github"
         width="350"
         alt="GitHub Stats"
         loading="lazy"
